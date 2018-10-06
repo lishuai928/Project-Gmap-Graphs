@@ -1,0 +1,355 @@
+,City,Type,Place ID,Name,Point of interests,Address,Lat,Lng
+0,"San Francisco, California",school,ChIJi_z_a6KAhYARHyEzLOKy6xQ,Yoga Tree Hayes,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","519 Hayes Street, San Francisco",37.776507,-122.425014
+1,"San Francisco, California",school,ChIJu2l-LmWAhYARxmTpj4vb0I8,Bright Horizons at 221 Main,"['school', 'point_of_interest', 'establishment']","221 Main Street, San Francisco",37.79034,-122.392263
+2,"San Francisco, California",school,ChIJEXlt4TJ-j4ARRpaWbbt3zco,Le Cordon Bleu College of Culinary Arts in San Francisco,"['school', 'point_of_interest', 'establishment']","350 Rhode Island Street, San Francisco",37.7658883,-122.4028824
+3,"San Francisco, California",school,ChIJU7vCd5F9j4AR9GT0sizLXwo,San Francisco Driving School,"['school', 'point_of_interest', 'establishment']","2409 19th Avenue, San Francisco",37.7427893,-122.4758912
+4,"San Francisco, California",school,ChIJBc_rV-eAhYARxkitrz4kdj4,Galileo Academy of Science and Technology,"['school', 'point_of_interest', 'establishment']","1150 Francisco Street, San Francisco",37.80346249999999,-122.4240285
+5,"San Francisco, California",school,ChIJgaTBe499j4ARxsYjNvqyYZY,Abraham Lincoln High School,"['school', 'point_of_interest', 'establishment']","2162 24th Avenue, San Francisco",37.74690700000001,-122.4799819
+6,"San Francisco, California",school,ChIJXS6-VzOHhYARd7uawbWEhlM,Jewish Community Center of San Francisco,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","3200 California Street, San Francisco",37.78733709999999,-122.4472635
+7,"San Francisco, California",school,ChIJLbVZeqN9j4AR_U7DEiiHSNY,Lowell High School,"['school', 'point_of_interest', 'establishment']","1101 Eucalyptus Drive, San Francisco",37.73044219999999,-122.4825763
+8,"San Francisco, California",school,ChIJvXl2weCAhYARmuP3Xwe2a2s,Peekadoodle Kidsclub,"['school', 'point_of_interest', 'establishment']","900 North Point Street f100, San Francisco",37.8059208,-122.4234058
+9,"San Francisco, California",school,ChIJ415kURh-j4ARPfBAwXpgEWk,Mission High School,"['school', 'point_of_interest', 'establishment']","3750 18th Street, San Francisco",37.76171660000001,-122.4273151
+10,"San Francisco, California",school,ChIJyzWlA2WAhYARbUwc9td81FY,The Dailey Method,"['gym', 'clothing_store', 'store', 'health', 'school', 'point_of_interest', 'establishment']","121 Spear St # B10, San Francisco",37.79193489999999,-122.3926494
+11,"San Francisco, California",school,ChIJtVu3Vip8j4ARtCskvCHVsnI,Lick Wilmerding High School,"['school', 'point_of_interest', 'establishment']","755 Ocean Avenue, San Francisco",37.722267,-122.448946
+12,"San Francisco, California",school,ChIJv52BnPuAhYARuybUbBJxOZ4,San Francisco Sailing Co. Sailing School,"['school', 'point_of_interest', 'establishment']","1 Beach Street, San Francisco",37.8076798,-122.4094468
+13,"San Francisco, California",school,ChIJk3MvJZaAhYAR_Ou2cdRuun8,Sacred Heart Cathedral Preparatory,"['school', 'point_of_interest', 'establishment']","1055 Ellis Street, San Francisco",37.7834407,-122.4231357
+14,"San Francisco, California",school,ChIJL-ABOn59j4AR3SyXX8c88DA,St. Ignatius College Preparatory,"['school', 'point_of_interest', 'establishment']","2001 37th Avenue, San Francisco",37.74806950000001,-122.4959313
+15,"San Francisco, California",school,ChIJgzCrm4iAhYARU3na9OZJ6vs,English Language Institute One Embarcadero Center Campus,"['school', 'point_of_interest', 'establishment']","One Embarcadero Center Lobby Level, 2nd Floor, San Francisco",37.794651,-122.399826
+16,"San Francisco, California",school,ChIJ0dQTi4N-j4ARBPh_xMRWuqg,Balboa High School,"['school', 'point_of_interest', 'establishment']","1000 Cayuga Avenue, San Francisco",37.72157959999999,-122.4407711
+17,"San Francisco, California",school,ChIJxezEGJ-AhYARO1_NzQydKhA,94102,"['premise', 'school', 'point_of_interest', 'establishment']",San Francisco,37.7749032,-122.4216848
+18,"San Francisco, California",school,ChIJ_RUEIp-AhYARcsgky6nEFRw,International High School of San Francisco,"['school', 'point_of_interest', 'establishment']","150 Oak Street, San Francisco",37.77538159999999,-122.4216371
+19,"San Francisco, California",school,ChIJ3dD4EJyAhYARQvr-cXNJBPU,Marin Day Schools Market Street,"['school', 'point_of_interest', 'establishment']","1390 Market Street #108, San Francisco",37.7770837,-122.4176807
+20,"San Francisco, California",school,ChIJi_z_a6KAhYARHyEzLOKy6xQ,Yoga Tree Hayes,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","519 Hayes Street, San Francisco",37.776507,-122.425014
+21,"San Francisco, California",school,ChIJu2l-LmWAhYARxmTpj4vb0I8,Bright Horizons at 221 Main,"['school', 'point_of_interest', 'establishment']","221 Main Street, San Francisco",37.79034,-122.392263
+22,"San Francisco, California",school,ChIJEXlt4TJ-j4ARRpaWbbt3zco,Le Cordon Bleu College of Culinary Arts in San Francisco,"['school', 'point_of_interest', 'establishment']","350 Rhode Island Street, San Francisco",37.7658883,-122.4028824
+23,"San Francisco, California",school,ChIJU7vCd5F9j4AR9GT0sizLXwo,San Francisco Driving School,"['school', 'point_of_interest', 'establishment']","2409 19th Avenue, San Francisco",37.7427893,-122.4758912
+24,"San Francisco, California",school,ChIJBc_rV-eAhYARxkitrz4kdj4,Galileo Academy of Science and Technology,"['school', 'point_of_interest', 'establishment']","1150 Francisco Street, San Francisco",37.80346249999999,-122.4240285
+25,"San Francisco, California",school,ChIJgaTBe499j4ARxsYjNvqyYZY,Abraham Lincoln High School,"['school', 'point_of_interest', 'establishment']","2162 24th Avenue, San Francisco",37.74690700000001,-122.4799819
+26,"San Francisco, California",school,ChIJXS6-VzOHhYARd7uawbWEhlM,Jewish Community Center of San Francisco,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","3200 California Street, San Francisco",37.78733709999999,-122.4472635
+27,"San Francisco, California",school,ChIJLbVZeqN9j4AR_U7DEiiHSNY,Lowell High School,"['school', 'point_of_interest', 'establishment']","1101 Eucalyptus Drive, San Francisco",37.73044219999999,-122.4825763
+28,"San Francisco, California",school,ChIJvXl2weCAhYARmuP3Xwe2a2s,Peekadoodle Kidsclub,"['school', 'point_of_interest', 'establishment']","900 North Point Street f100, San Francisco",37.8059208,-122.4234058
+29,"San Francisco, California",school,ChIJ415kURh-j4ARPfBAwXpgEWk,Mission High School,"['school', 'point_of_interest', 'establishment']","3750 18th Street, San Francisco",37.76171660000001,-122.4273151
+30,"San Francisco, California",school,ChIJyzWlA2WAhYARbUwc9td81FY,The Dailey Method,"['gym', 'clothing_store', 'store', 'health', 'school', 'point_of_interest', 'establishment']","121 Spear St # B10, San Francisco",37.79193489999999,-122.3926494
+31,"San Francisco, California",school,ChIJtVu3Vip8j4ARtCskvCHVsnI,Lick Wilmerding High School,"['school', 'point_of_interest', 'establishment']","755 Ocean Avenue, San Francisco",37.722267,-122.448946
+32,"San Francisco, California",school,ChIJv52BnPuAhYARuybUbBJxOZ4,San Francisco Sailing Co. Sailing School,"['school', 'point_of_interest', 'establishment']","1 Beach Street, San Francisco",37.8076798,-122.4094468
+33,"San Francisco, California",school,ChIJk3MvJZaAhYAR_Ou2cdRuun8,Sacred Heart Cathedral Preparatory,"['school', 'point_of_interest', 'establishment']","1055 Ellis Street, San Francisco",37.7834407,-122.4231357
+34,"San Francisco, California",school,ChIJL-ABOn59j4AR3SyXX8c88DA,St. Ignatius College Preparatory,"['school', 'point_of_interest', 'establishment']","2001 37th Avenue, San Francisco",37.74806950000001,-122.4959313
+35,"San Francisco, California",school,ChIJgzCrm4iAhYARU3na9OZJ6vs,English Language Institute One Embarcadero Center Campus,"['school', 'point_of_interest', 'establishment']","One Embarcadero Center Lobby Level, 2nd Floor, San Francisco",37.794651,-122.399826
+36,"San Francisco, California",school,ChIJ0dQTi4N-j4ARBPh_xMRWuqg,Balboa High School,"['school', 'point_of_interest', 'establishment']","1000 Cayuga Avenue, San Francisco",37.72157959999999,-122.4407711
+37,"San Francisco, California",school,ChIJxezEGJ-AhYARO1_NzQydKhA,94102,"['premise', 'school', 'point_of_interest', 'establishment']",San Francisco,37.7749032,-122.4216848
+38,"San Francisco, California",school,ChIJ_RUEIp-AhYARcsgky6nEFRw,International High School of San Francisco,"['school', 'point_of_interest', 'establishment']","150 Oak Street, San Francisco",37.77538159999999,-122.4216371
+39,"San Francisco, California",school,ChIJ3dD4EJyAhYARQvr-cXNJBPU,Marin Day Schools Market Street,"['school', 'point_of_interest', 'establishment']","1390 Market Street #108, San Francisco",37.7770837,-122.4176807
+40,"San Francisco, California",school,ChIJi_z_a6KAhYARHyEzLOKy6xQ,Yoga Tree Hayes,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","519 Hayes Street, San Francisco",37.776507,-122.425014
+41,"San Francisco, California",school,ChIJu2l-LmWAhYARxmTpj4vb0I8,Bright Horizons at 221 Main,"['school', 'point_of_interest', 'establishment']","221 Main Street, San Francisco",37.79034,-122.392263
+42,"San Francisco, California",school,ChIJEXlt4TJ-j4ARRpaWbbt3zco,Le Cordon Bleu College of Culinary Arts in San Francisco,"['school', 'point_of_interest', 'establishment']","350 Rhode Island Street, San Francisco",37.7658883,-122.4028824
+43,"San Francisco, California",school,ChIJU7vCd5F9j4AR9GT0sizLXwo,San Francisco Driving School,"['school', 'point_of_interest', 'establishment']","2409 19th Avenue, San Francisco",37.7427893,-122.4758912
+44,"San Francisco, California",school,ChIJBc_rV-eAhYARxkitrz4kdj4,Galileo Academy of Science and Technology,"['school', 'point_of_interest', 'establishment']","1150 Francisco Street, San Francisco",37.80346249999999,-122.4240285
+45,"San Francisco, California",school,ChIJgaTBe499j4ARxsYjNvqyYZY,Abraham Lincoln High School,"['school', 'point_of_interest', 'establishment']","2162 24th Avenue, San Francisco",37.74690700000001,-122.4799819
+46,"San Francisco, California",school,ChIJXS6-VzOHhYARd7uawbWEhlM,Jewish Community Center of San Francisco,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","3200 California Street, San Francisco",37.78733709999999,-122.4472635
+47,"San Francisco, California",school,ChIJLbVZeqN9j4AR_U7DEiiHSNY,Lowell High School,"['school', 'point_of_interest', 'establishment']","1101 Eucalyptus Drive, San Francisco",37.73044219999999,-122.4825763
+48,"San Francisco, California",school,ChIJvXl2weCAhYARmuP3Xwe2a2s,Peekadoodle Kidsclub,"['school', 'point_of_interest', 'establishment']","900 North Point Street f100, San Francisco",37.8059208,-122.4234058
+49,"San Francisco, California",school,ChIJ415kURh-j4ARPfBAwXpgEWk,Mission High School,"['school', 'point_of_interest', 'establishment']","3750 18th Street, San Francisco",37.76171660000001,-122.4273151
+50,"San Francisco, California",school,ChIJyzWlA2WAhYARbUwc9td81FY,The Dailey Method,"['gym', 'clothing_store', 'store', 'health', 'school', 'point_of_interest', 'establishment']","121 Spear St # B10, San Francisco",37.79193489999999,-122.3926494
+51,"San Francisco, California",school,ChIJtVu3Vip8j4ARtCskvCHVsnI,Lick Wilmerding High School,"['school', 'point_of_interest', 'establishment']","755 Ocean Avenue, San Francisco",37.722267,-122.448946
+52,"San Francisco, California",school,ChIJv52BnPuAhYARuybUbBJxOZ4,San Francisco Sailing Co. Sailing School,"['school', 'point_of_interest', 'establishment']","1 Beach Street, San Francisco",37.8076798,-122.4094468
+53,"San Francisco, California",school,ChIJk3MvJZaAhYAR_Ou2cdRuun8,Sacred Heart Cathedral Preparatory,"['school', 'point_of_interest', 'establishment']","1055 Ellis Street, San Francisco",37.7834407,-122.4231357
+54,"San Francisco, California",school,ChIJL-ABOn59j4AR3SyXX8c88DA,St. Ignatius College Preparatory,"['school', 'point_of_interest', 'establishment']","2001 37th Avenue, San Francisco",37.74806950000001,-122.4959313
+55,"San Francisco, California",school,ChIJgzCrm4iAhYARU3na9OZJ6vs,English Language Institute One Embarcadero Center Campus,"['school', 'point_of_interest', 'establishment']","One Embarcadero Center Lobby Level, 2nd Floor, San Francisco",37.794651,-122.399826
+56,"San Francisco, California",school,ChIJ0dQTi4N-j4ARBPh_xMRWuqg,Balboa High School,"['school', 'point_of_interest', 'establishment']","1000 Cayuga Avenue, San Francisco",37.72157959999999,-122.4407711
+57,"San Francisco, California",school,ChIJxezEGJ-AhYARO1_NzQydKhA,94102,"['premise', 'school', 'point_of_interest', 'establishment']",San Francisco,37.7749032,-122.4216848
+58,"San Francisco, California",school,ChIJ_RUEIp-AhYARcsgky6nEFRw,International High School of San Francisco,"['school', 'point_of_interest', 'establishment']","150 Oak Street, San Francisco",37.77538159999999,-122.4216371
+59,"San Francisco, California",school,ChIJ3dD4EJyAhYARQvr-cXNJBPU,Marin Day Schools Market Street,"['school', 'point_of_interest', 'establishment']","1390 Market Street #108, San Francisco",37.7770837,-122.4176807
+0,"Redwood City, California",school,ChIJhU7T1qqkj4AR5dMCwSwySuk,Menlo-Atherton High School,"['school', 'point_of_interest', 'establishment']","555 Middlefield Road, Atherton",37.460767,-122.1751142
+1,"Redwood City, California",school,ChIJyalLv6Kkj4ARAtiuY8XaS0M,"Sacred Heart Schools, Atherton","['school', 'point_of_interest', 'establishment']","150 Valparaiso Avenue, Atherton",37.4491878,-122.1964641
+2,"Redwood City, California",school,ChIJg5VS1jiij4AR1IIHElRJgCw,Redwood High School,"['school', 'point_of_interest', 'establishment']","1968 Old County Road, Redwood City",37.4953497,-122.2442955
+3,"Redwood City, California",school,ChIJ6y3krEyij4ARd2-2II63C_w,Sequoia High School,"['school', 'point_of_interest', 'establishment']","1201 Brewster Avenue, Redwood City",37.4848468,-122.2370459
+4,"Redwood City, California",school,ChIJ963Bommjj4ARtshsCD4HC1w,Garfield Community School K-8,"['school', 'point_of_interest', 'establishment']","3600 Middlefield Road, Menlo Park",37.4698553,-122.2027615
+5,"Redwood City, California",school,ChIJRUEZLWCfj4ARrwP41kqqHbA,Carlmont High School,"['school', 'point_of_interest', 'establishment']","1400 Alameda de las Pulgas, Belmont",37.5058435,-122.2892473
+6,"Redwood City, California",school,ChIJMRlldaSkj4ARoU1GnMAa4FE,Menlo School,"['school', 'point_of_interest', 'establishment']","50 Valparaiso Avenue, Atherton",37.4532395,-122.1912781
+7,"Redwood City, California",school,ChIJjVBNwXmkj4ARHfWuRnZ5ia8,Woodside High School,"['school', 'point_of_interest', 'establishment']","199 Churchill Avenue, Woodside",37.4451629,-122.2322775
+8,"Redwood City, California",school,ChIJ7QtCEyG7j4ARjD4nI1AAXHk,Palo Alto High School,"['school', 'point_of_interest', 'establishment']","50 Embarcadero Road, Palo Alto",37.4366525,-122.1566629
+9,"Redwood City, California",school,ChIJWbmT20q7j4ARL28mLyBphHk,Natural Traditions Inc,"['store', 'health', 'food', 'school', 'point_of_interest', 'establishment']","115 El Camino Real, Menlo Park",37.4477388,-122.1735016
+10,"Redwood City, California",school,ChIJY2-_6rKYj4ARzimGQF7BCAU,San Mateo County School Superintendent,"['school', 'point_of_interest', 'establishment']","101 Twin Dolphin Drive, Redwood City",37.52579799999999,-122.262952
+11,"Redwood City, California",school,ChIJPd8zEN6kj4ARFBumkjj3UwU,Performance Singing,"['school', 'point_of_interest', 'establishment']","526 Seventh Avenue, Menlo Park",37.47458999999999,-122.200396
+12,"Redwood City, California",school,ChIJR46VvZujj4ARIreV90iT-O0,St. Pius School,"['school', 'point_of_interest', 'establishment']","1100 Woodside Road, Redwood City",37.46172140000001,-122.2268125
+13,"Redwood City, California",school,ChIJSdIQPpOjj4ARfjQ4-NCI7Qw,Congregation Beth Jacob,"['synagogue', 'place_of_worship', 'school', 'point_of_interest', 'establishment']","1550 Alameda de las Pulgas, Redwood City",37.4572375,-122.241277
+14,"Redwood City, California",school,ChIJkUQiOE2fj4ARGRjukzkndz4,UC Berkeley Extension,"['school', 'point_of_interest', 'establishment']","1301 1301 Shoreway Road, Suite 400 #400, Belmont",37.5243746,-122.265976
+15,"Redwood City, California",school,ChIJ87_lI7Kkj4ARN_NYgm1FGE0,Lydian Academy,"['school', 'point_of_interest', 'establishment']","815 El Camino Real, Menlo Park",37.4519023,-122.1800478
+16,"Redwood City, California",school,ChIJt4riJD-7j4AR9h5GerZUCwU,First School,"['school', 'point_of_interest', 'establishment']","625 Hamilton Avenue, Palo Alto",37.4494134,-122.1565381
+17,"Redwood City, California",school,ChIJ9QC9b6mfj4ARA9h3bpxa3RI,Hillsdale High School,"['school', 'point_of_interest', 'establishment']","3115 Del Monte Street, San Mateo",37.5321441,-122.3131855
+18,"Redwood City, California",school,ChIJV1WHAz-jj4ARtipEYkCrzTw,Taft Elementary School,"['school', 'point_of_interest', 'establishment']","903 Tenth Avenue, Redwood City",37.4809908,-122.1937167
+0,"Berkeley, California",school,ChIJKSX4y7GAj4ARHbxe7elS9zg,Bright Future Early Learning,"['school', 'point_of_interest', 'establishment']","1515 Clay Street # 146, Oakland",37.8065375,-122.273497
+1,"Berkeley, California",school,ChIJf7si7hOHj4AR7mem3kL0bxI,Oakland High School,"['school', 'point_of_interest', 'establishment']","1023 MacArthur Boulevard, Oakland",37.8044667,-122.2367612
+2,"Berkeley, California",school,ChIJiZODxK2Aj4ARTMot5wllmGU,Great Western Power Company,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","520 20th Street, Oakland",37.8097934,-122.2702065
+3,"Berkeley, California",school,ChIJM1ImhTSHj4ARDJfxumyCID0,Laney College Children's Center,"['school', 'point_of_interest', 'establishment']","900 Fallon Street, Oakland",37.7949364,-122.263093
+4,"Berkeley, California",school,ChIJfcgEsCF5hYARcfECGkjpASw,Bridges Rock Gym,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","5635 San Diego Street, El Cerrito",37.9001519,-122.3073993
+5,"Berkeley, California",school,ChIJ6c5Ymul-hYAR3OxdZdJHqWA,Rosa Parks Elementary School,"['school', 'point_of_interest', 'establishment']","920 Allston Way, Berkeley",37.8654198,-122.2946254
+6,"Berkeley, California",school,ChIJcQCzbb99hYAR_FLRWA6Pm2w,The College Preparatory School,"['school', 'point_of_interest', 'establishment']","6100 Broadway, Oakland",37.8482687,-122.2396198
+7,"Berkeley, California",school,ChIJH80GW0N4hYARIvHCvI9bBhI,Kennedy High School,"['school', 'point_of_interest', 'establishment']","4300 Cutting Boulevard, Richmond",37.9247715,-122.3285994
+8,"Berkeley, California",school,ChIJ202lCRZ5hYARB4ZdTkO_ie0,El Cerrito High School,"['school', 'point_of_interest', 'establishment']","540 Ashbury Avenue, El Cerrito",37.9065914,-122.2940256
+9,"Berkeley, California",school,ChIJp7XUVOV9hYARpLQwig1v1_s,Oakland Technical High School,"['school', 'point_of_interest', 'establishment']","4351 Broadway, Oakland",37.832423,-122.2545504
+10,"Berkeley, California",school,ChIJbzNnTC18hYARGec2GJi_dWo,The Academy,"['school', 'point_of_interest', 'establishment']","2722 Benvenue Avenue, Berkeley",37.860805,-122.254935
+11,"Berkeley, California",school,ChIJfxxEI1t-hYARaHrEraMcYLM,Allegro,"['night_club', 'school', 'point_of_interest', 'establishment']","5855 Christie Avenue, Emeryville",37.83953,-122.295932
+12,"Berkeley, California",school,ChIJJdID72Z-hYARKNbsbjBcnBc,Aspire Berkeley Maynard Academy,"['school', 'point_of_interest', 'establishment']","6200 San Pablo Avenue, Oakland",37.8452517,-122.2843616
+13,"Berkeley, California",school,ChIJQ_X8qnyHj4AR-EaHnubxpVE,Highlands Pre-School,"['school', 'point_of_interest', 'establishment']","400 Highland Avenue, Piedmont",37.82527580000001,-122.2309549
+14,"Berkeley, California",school,ChIJ0f0HE9h9hYARDiQ2rq6HpO8,Sankofa Academy,"['school', 'point_of_interest', 'establishment']","581 61st Street, Oakland",37.8469153,-122.2645152
+15,"Berkeley, California",school,ChIJTTdzMLl9hYARhah7C75-ETE,Seneca Family of Agencies,"['health', 'school', 'point_of_interest', 'establishment']","6925 Chabot Road, Oakland",37.8516821,-122.2389565
+16,"Berkeley, California",school,ChIJRZLJnVV4hYARX-7CndvcekE,St. John the Baptist School,"['school', 'point_of_interest', 'establishment']","11156 San Pablo Avenue, El Cerrito",37.9198978,-122.3136083
+17,"Berkeley, California",school,ChIJ1VYMQTd5hYARuXtQ8b0Yx-E,Albany High School,"['school', 'point_of_interest', 'establishment']","603 Key Route Boulevard, Albany",37.8964201,-122.2921172
+18,"Berkeley, California",school,ChIJqQ1v57Z-hYARjm85_FYvlQc,Saint Mary's College High School,"['school', 'point_of_interest', 'establishment']","1294 Albina Avenue, Albany",37.88290870000001,-122.2835893
+19,"Berkeley, California",school,ChIJyUi14xx-hYARnT35YMR873I,McClymonds High School,"['school', 'point_of_interest', 'establishment']","2607 Myrtle Street, Oakland",37.8180626,-122.2787164
+20,"Berkeley, California",school,ChIJKSX4y7GAj4ARHbxe7elS9zg,Bright Future Early Learning,"['school', 'point_of_interest', 'establishment']","1515 Clay Street # 146, Oakland",37.8065375,-122.273497
+21,"Berkeley, California",school,ChIJf7si7hOHj4AR7mem3kL0bxI,Oakland High School,"['school', 'point_of_interest', 'establishment']","1023 MacArthur Boulevard, Oakland",37.8044667,-122.2367612
+22,"Berkeley, California",school,ChIJiZODxK2Aj4ARTMot5wllmGU,Great Western Power Company,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","520 20th Street, Oakland",37.8097934,-122.2702065
+23,"Berkeley, California",school,ChIJM1ImhTSHj4ARDJfxumyCID0,Laney College Children's Center,"['school', 'point_of_interest', 'establishment']","900 Fallon Street, Oakland",37.7949364,-122.263093
+24,"Berkeley, California",school,ChIJfcgEsCF5hYARcfECGkjpASw,Bridges Rock Gym,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","5635 San Diego Street, El Cerrito",37.9001519,-122.3073993
+25,"Berkeley, California",school,ChIJ6c5Ymul-hYAR3OxdZdJHqWA,Rosa Parks Elementary School,"['school', 'point_of_interest', 'establishment']","920 Allston Way, Berkeley",37.8654198,-122.2946254
+26,"Berkeley, California",school,ChIJcQCzbb99hYAR_FLRWA6Pm2w,The College Preparatory School,"['school', 'point_of_interest', 'establishment']","6100 Broadway, Oakland",37.8482687,-122.2396198
+27,"Berkeley, California",school,ChIJH80GW0N4hYARIvHCvI9bBhI,Kennedy High School,"['school', 'point_of_interest', 'establishment']","4300 Cutting Boulevard, Richmond",37.9247715,-122.3285994
+28,"Berkeley, California",school,ChIJ202lCRZ5hYARB4ZdTkO_ie0,El Cerrito High School,"['school', 'point_of_interest', 'establishment']","540 Ashbury Avenue, El Cerrito",37.9065914,-122.2940256
+29,"Berkeley, California",school,ChIJp7XUVOV9hYARpLQwig1v1_s,Oakland Technical High School,"['school', 'point_of_interest', 'establishment']","4351 Broadway, Oakland",37.832423,-122.2545504
+30,"Berkeley, California",school,ChIJbzNnTC18hYARGec2GJi_dWo,The Academy,"['school', 'point_of_interest', 'establishment']","2722 Benvenue Avenue, Berkeley",37.860805,-122.254935
+31,"Berkeley, California",school,ChIJfxxEI1t-hYARaHrEraMcYLM,Allegro,"['night_club', 'school', 'point_of_interest', 'establishment']","5855 Christie Avenue, Emeryville",37.83953,-122.295932
+32,"Berkeley, California",school,ChIJJdID72Z-hYARKNbsbjBcnBc,Aspire Berkeley Maynard Academy,"['school', 'point_of_interest', 'establishment']","6200 San Pablo Avenue, Oakland",37.8452517,-122.2843616
+33,"Berkeley, California",school,ChIJQ_X8qnyHj4AR-EaHnubxpVE,Highlands Pre-School,"['school', 'point_of_interest', 'establishment']","400 Highland Avenue, Piedmont",37.82527580000001,-122.2309549
+34,"Berkeley, California",school,ChIJ0f0HE9h9hYARDiQ2rq6HpO8,Sankofa Academy,"['school', 'point_of_interest', 'establishment']","581 61st Street, Oakland",37.8469153,-122.2645152
+35,"Berkeley, California",school,ChIJTTdzMLl9hYARhah7C75-ETE,Seneca Family of Agencies,"['health', 'school', 'point_of_interest', 'establishment']","6925 Chabot Road, Oakland",37.8516821,-122.2389565
+36,"Berkeley, California",school,ChIJRZLJnVV4hYARX-7CndvcekE,St. John the Baptist School,"['school', 'point_of_interest', 'establishment']","11156 San Pablo Avenue, El Cerrito",37.9198978,-122.3136083
+37,"Berkeley, California",school,ChIJ1VYMQTd5hYARuXtQ8b0Yx-E,Albany High School,"['school', 'point_of_interest', 'establishment']","603 Key Route Boulevard, Albany",37.8964201,-122.2921172
+38,"Berkeley, California",school,ChIJqQ1v57Z-hYARjm85_FYvlQc,Saint Mary's College High School,"['school', 'point_of_interest', 'establishment']","1294 Albina Avenue, Albany",37.88290870000001,-122.2835893
+39,"Berkeley, California",school,ChIJyUi14xx-hYARnT35YMR873I,McClymonds High School,"['school', 'point_of_interest', 'establishment']","2607 Myrtle Street, Oakland",37.8180626,-122.2787164
+40,"Berkeley, California",school,ChIJKSX4y7GAj4ARHbxe7elS9zg,Bright Future Early Learning,"['school', 'point_of_interest', 'establishment']","1515 Clay Street # 146, Oakland",37.8065375,-122.273497
+41,"Berkeley, California",school,ChIJf7si7hOHj4AR7mem3kL0bxI,Oakland High School,"['school', 'point_of_interest', 'establishment']","1023 MacArthur Boulevard, Oakland",37.8044667,-122.2367612
+42,"Berkeley, California",school,ChIJiZODxK2Aj4ARTMot5wllmGU,Great Western Power Company,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","520 20th Street, Oakland",37.8097934,-122.2702065
+43,"Berkeley, California",school,ChIJM1ImhTSHj4ARDJfxumyCID0,Laney College Children's Center,"['school', 'point_of_interest', 'establishment']","900 Fallon Street, Oakland",37.7949364,-122.263093
+44,"Berkeley, California",school,ChIJfcgEsCF5hYARcfECGkjpASw,Bridges Rock Gym,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","5635 San Diego Street, El Cerrito",37.9001519,-122.3073993
+45,"Berkeley, California",school,ChIJ6c5Ymul-hYAR3OxdZdJHqWA,Rosa Parks Elementary School,"['school', 'point_of_interest', 'establishment']","920 Allston Way, Berkeley",37.8654198,-122.2946254
+46,"Berkeley, California",school,ChIJcQCzbb99hYAR_FLRWA6Pm2w,The College Preparatory School,"['school', 'point_of_interest', 'establishment']","6100 Broadway, Oakland",37.8482687,-122.2396198
+47,"Berkeley, California",school,ChIJH80GW0N4hYARIvHCvI9bBhI,Kennedy High School,"['school', 'point_of_interest', 'establishment']","4300 Cutting Boulevard, Richmond",37.9247715,-122.3285994
+48,"Berkeley, California",school,ChIJ202lCRZ5hYARB4ZdTkO_ie0,El Cerrito High School,"['school', 'point_of_interest', 'establishment']","540 Ashbury Avenue, El Cerrito",37.9065914,-122.2940256
+49,"Berkeley, California",school,ChIJp7XUVOV9hYARpLQwig1v1_s,Oakland Technical High School,"['school', 'point_of_interest', 'establishment']","4351 Broadway, Oakland",37.832423,-122.2545504
+50,"Berkeley, California",school,ChIJbzNnTC18hYARGec2GJi_dWo,The Academy,"['school', 'point_of_interest', 'establishment']","2722 Benvenue Avenue, Berkeley",37.860805,-122.254935
+51,"Berkeley, California",school,ChIJfxxEI1t-hYARaHrEraMcYLM,Allegro,"['night_club', 'school', 'point_of_interest', 'establishment']","5855 Christie Avenue, Emeryville",37.83953,-122.295932
+52,"Berkeley, California",school,ChIJJdID72Z-hYARKNbsbjBcnBc,Aspire Berkeley Maynard Academy,"['school', 'point_of_interest', 'establishment']","6200 San Pablo Avenue, Oakland",37.8452517,-122.2843616
+53,"Berkeley, California",school,ChIJQ_X8qnyHj4AR-EaHnubxpVE,Highlands Pre-School,"['school', 'point_of_interest', 'establishment']","400 Highland Avenue, Piedmont",37.82527580000001,-122.2309549
+54,"Berkeley, California",school,ChIJ0f0HE9h9hYARDiQ2rq6HpO8,Sankofa Academy,"['school', 'point_of_interest', 'establishment']","581 61st Street, Oakland",37.8469153,-122.2645152
+55,"Berkeley, California",school,ChIJTTdzMLl9hYARhah7C75-ETE,Seneca Family of Agencies,"['health', 'school', 'point_of_interest', 'establishment']","6925 Chabot Road, Oakland",37.8516821,-122.2389565
+56,"Berkeley, California",school,ChIJRZLJnVV4hYARX-7CndvcekE,St. John the Baptist School,"['school', 'point_of_interest', 'establishment']","11156 San Pablo Avenue, El Cerrito",37.9198978,-122.3136083
+57,"Berkeley, California",school,ChIJ1VYMQTd5hYARuXtQ8b0Yx-E,Albany High School,"['school', 'point_of_interest', 'establishment']","603 Key Route Boulevard, Albany",37.8964201,-122.2921172
+58,"Berkeley, California",school,ChIJqQ1v57Z-hYARjm85_FYvlQc,Saint Mary's College High School,"['school', 'point_of_interest', 'establishment']","1294 Albina Avenue, Albany",37.88290870000001,-122.2835893
+59,"Berkeley, California",school,ChIJyUi14xx-hYARnT35YMR873I,McClymonds High School,"['school', 'point_of_interest', 'establishment']","2607 Myrtle Street, Oakland",37.8180626,-122.2787164
+0,"Palo Alto, California",school,ChIJq5awbla6j4AR8Hk0HnpqxjY,TAIJIQUAN TUTELAGE OF PALO ALTO,"['health', 'school', 'point_of_interest', 'establishment']","4000 Middlefield Road, Palo Alto",37.4180039,-122.1080044
+1,"Palo Alto, California",school,ChIJJSp1rOuwj4ARmqwIA_6YcY4,Los Altos High School,"['school', 'point_of_interest', 'establishment']","201 Almond Avenue, Los Altos",37.38687769999999,-122.1085968
+2,"Palo Alto, California",school,ChIJ7QtCEyG7j4ARjD4nI1AAXHk,Palo Alto High School,"['school', 'point_of_interest', 'establishment']","50 Embarcadero Road, Palo Alto",37.4366525,-122.1566629
+3,"Palo Alto, California",school,ChIJHVbpgxS6j4AR9YLHy_G1z6E,Oshman Family JCC,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","3921 Fabian Way, Palo Alto",37.4236743,-122.1034291
+4,"Palo Alto, California",school,ChIJv8p2nX-wj4ARIU6S2y07gT0,Henry M Gunn High School,"['school', 'point_of_interest', 'establishment']","780 Arastradero Road, Palo Alto",37.40252,-122.1334165
+5,"Palo Alto, California",school,ChIJhU7T1qqkj4AR5dMCwSwySuk,Menlo-Atherton High School,"['school', 'point_of_interest', 'establishment']","555 Middlefield Road, Atherton",37.460767,-122.1751142
+6,"Palo Alto, California",school,ChIJyalLv6Kkj4ARAtiuY8XaS0M,"Sacred Heart Schools, Atherton","['school', 'point_of_interest', 'establishment']","150 Valparaiso Avenue, Atherton",37.4491878,-122.1964641
+7,"Palo Alto, California",school,ChIJMRlldaSkj4ARoU1GnMAa4FE,Menlo School,"['school', 'point_of_interest', 'establishment']","50 Valparaiso Avenue, Atherton",37.4532395,-122.1912781
+8,"Palo Alto, California",school,ChIJ963Bommjj4ARtshsCD4HC1w,Garfield Community School K-8,"['school', 'point_of_interest', 'establishment']","3600 Middlefield Road, Menlo Park",37.4698553,-122.2027615
+9,"Palo Alto, California",school,ChIJKTsi4wG7j4ARhJq53M_ih30,Greene Middle School,"['school', 'point_of_interest', 'establishment']","750 North California Avenue, Palo Alto",37.4383752,-122.1348162
+10,"Palo Alto, California",school,ChIJW1J8TQC7j4AR2yqaHS2OiPc,Mid Peninsula Education Center,"['school', 'premise', 'point_of_interest', 'establishment']",Palo Alto,37.4407664,-122.1316687
+11,"Palo Alto, California",school,ChIJo0k3swG7j4ARhlK3MXu1o7g,Stratford School - Palo Alto,"['school', 'point_of_interest', 'establishment']","870 North California Avenue, Palo Alto",37.440946,-122.1318404
+12,"Palo Alto, California",school,ChIJWbmT20q7j4ARL28mLyBphHk,Natural Traditions Inc,"['store', 'health', 'food', 'school', 'point_of_interest', 'establishment']","115 El Camino Real, Menlo Park",37.4477388,-122.1735016
+13,"Palo Alto, California",school,ChIJjVBNwXmkj4ARHfWuRnZ5ia8,Woodside High School,"['school', 'point_of_interest', 'establishment']","199 Churchill Avenue, Woodside",37.4451629,-122.2322775
+14,"Palo Alto, California",school,ChIJwXq3YNOwj4ARn69uyQDyuJI,Graham Middle School,"['school', 'point_of_interest', 'establishment']","1175 Castro Street, Mountain View",37.3819695,-122.085526
+15,"Palo Alto, California",school,ChIJARy3C2Cwj4ARJsC1Hv0ftjg,Gardner Bullis Elementary School,"['school', 'point_of_interest', 'establishment']","25890 Fremont Road, Los Altos Hills",37.3817524,-122.1304822
+16,"Palo Alto, California",school,ChIJt4riJD-7j4AR9h5GerZUCwU,First School,"['school', 'point_of_interest', 'establishment']","625 Hamilton Avenue, Palo Alto",37.4494134,-122.1565381
+17,"Palo Alto, California",school,ChIJPd8zEN6kj4ARFBumkjj3UwU,Performance Singing,"['school', 'point_of_interest', 'establishment']","526 Seventh Avenue, Menlo Park",37.47458999999999,-122.200396
+18,"Palo Alto, California",school,ChIJMXwAPpiwj4ARmI5o45L0pxg,Teachers Curriculum Institute,"['school', 'point_of_interest', 'establishment']","2440 West El Camino Real, Mountain View",37.3992849,-122.107799
+0,"Mountain View, California",school,ChIJq5awbla6j4AR8Hk0HnpqxjY,TAIJIQUAN TUTELAGE OF PALO ALTO,"['health', 'school', 'point_of_interest', 'establishment']","4000 Middlefield Road, Palo Alto",37.4180039,-122.1080044
+1,"Mountain View, California",school,ChIJJSp1rOuwj4ARmqwIA_6YcY4,Los Altos High School,"['school', 'point_of_interest', 'establishment']","201 Almond Avenue, Los Altos",37.38687769999999,-122.1085968
+2,"Mountain View, California",school,ChIJVxlK2vW2j4ARZ5v2SqQSw0k,Stratford School - Sunnyvale Washington Park,"['school', 'point_of_interest', 'establishment']","820 West McKinley Avenue, Sunnyvale",37.3754868,-122.0402396
+3,"Mountain View, California",school,ChIJE_bXRCK0j4ARvlf_0KXbcuY,Cupertino Middle School,"['school', 'point_of_interest', 'establishment']","1650 South Bernardo Avenue, Sunnyvale",37.339445,-122.0590275
+4,"Mountain View, California",school,ChIJh3Vpmcy2j4ARhE2REdnkCv8,Georgina P Blach Intermediate School,"['school', 'point_of_interest', 'establishment']","1120 Covington Road, Los Altos",37.3639546,-122.0828567
+5,"Mountain View, California",school,ChIJmRiO99G2j4ARoLWEnn40al8,El Camino YMCA,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","2400 Grant Road, Mountain View",37.3707115,-122.0787925
+6,"Mountain View, California",school,ChIJN-Cbb7m2j4ARaLTgeL9GcDs,Mountain View High School,"['school', 'point_of_interest', 'establishment']","3535 Truman Avenue, Mountain View",37.35960490000001,-122.066855
+7,"Mountain View, California",school,ChIJf57tZDC0j4ARXYTN0nN6GtM,Homestead High School,"['school', 'point_of_interest', 'establishment']","21370 Homestead Road, Cupertino",37.3371416,-122.0497249
+8,"Mountain View, California",school,ChIJHVbpgxS6j4AR9YLHy_G1z6E,Oshman Family JCC,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","3921 Fabian Way, Palo Alto",37.4236743,-122.1034291
+9,"Mountain View, California",school,ChIJv8p2nX-wj4ARIU6S2y07gT0,Henry M Gunn High School,"['school', 'point_of_interest', 'establishment']","780 Arastradero Road, Palo Alto",37.40252,-122.1334165
+10,"Mountain View, California",school,ChIJfdzwVCyxj4ARloMA6sL5dR8,St. Francis High School,"['school', 'point_of_interest', 'establishment']","1885 Miramonte Avenue, Mountain View",37.3695904,-122.0863418
+11,"Mountain View, California",school,ChIJ7QtCEyG7j4ARjD4nI1AAXHk,Palo Alto High School,"['school', 'point_of_interest', 'establishment']","50 Embarcadero Road, Palo Alto",37.4366525,-122.1566629
+12,"Mountain View, California",school,ChIJwXq3YNOwj4ARn69uyQDyuJI,Graham Middle School,"['school', 'point_of_interest', 'establishment']","1175 Castro Street, Mountain View",37.3819695,-122.085526
+13,"Mountain View, California",school,ChIJx0rMKD-2j4ARTWlt5-ryRfA,Bay Test Prep,"['school', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+14,"Mountain View, California",school,ChIJgwdEczm2j4ARMkYS1Hi1vtE,The King's Academy,"['school', 'point_of_interest', 'establishment']","562 North Britton Avenue, Sunnyvale",37.3864917,-122.0119268
+15,"Mountain View, California",school,ChIJhTTDE4G2j4AR1AVmcAUTwWU,Challenger School - Sunnyvale,"['school', 'point_of_interest', 'establishment']","1185 Hollenbeck Avenue, Sunnyvale",37.3552714,-122.042332
+16,"Mountain View, California",school,ChIJx0rMKD-2j4ARLeqHb2htzNA,GRE Classes,"['school', 'place_of_worship', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+17,"Mountain View, California",school,ChIJ3dmd6YG2j4ARb5AI_t9Fmnk,PELC,"['school', 'point_of_interest', 'establishment']","728 West Fremont Avenue, Sunnyvale",37.3516759,-122.0425737
+18,"Mountain View, California",school,ChIJf0k_YFy0j4ARa9FUluFX1-o,Monta Vista High School,"['school', 'point_of_interest', 'establishment']","21840 McClellan Road, Cupertino",37.3149946,-122.0562395
+0,"Sunnyvale, California",school,ChIJJSp1rOuwj4ARmqwIA_6YcY4,Los Altos High School,"['school', 'point_of_interest', 'establishment']","201 Almond Avenue, Los Altos",37.38687769999999,-122.1085968
+1,"Sunnyvale, California",school,ChIJVxlK2vW2j4ARZ5v2SqQSw0k,Stratford School - Sunnyvale Washington Park,"['school', 'point_of_interest', 'establishment']","820 West McKinley Avenue, Sunnyvale",37.3754868,-122.0402396
+2,"Sunnyvale, California",school,ChIJE_bXRCK0j4ARvlf_0KXbcuY,Cupertino Middle School,"['school', 'point_of_interest', 'establishment']","1650 South Bernardo Avenue, Sunnyvale",37.339445,-122.0590275
+3,"Sunnyvale, California",school,ChIJh3Vpmcy2j4ARhE2REdnkCv8,Georgina P Blach Intermediate School,"['school', 'point_of_interest', 'establishment']","1120 Covington Road, Los Altos",37.3639546,-122.0828567
+4,"Sunnyvale, California",school,ChIJmRiO99G2j4ARoLWEnn40al8,El Camino YMCA,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","2400 Grant Road, Mountain View",37.3707115,-122.0787925
+5,"Sunnyvale, California",school,ChIJq5awbla6j4AR8Hk0HnpqxjY,TAIJIQUAN TUTELAGE OF PALO ALTO,"['health', 'school', 'point_of_interest', 'establishment']","4000 Middlefield Road, Palo Alto",37.4180039,-122.1080044
+6,"Sunnyvale, California",school,ChIJN-Cbb7m2j4ARaLTgeL9GcDs,Mountain View High School,"['school', 'point_of_interest', 'establishment']","3535 Truman Avenue, Mountain View",37.35960490000001,-122.066855
+7,"Sunnyvale, California",school,ChIJf57tZDC0j4ARXYTN0nN6GtM,Homestead High School,"['school', 'point_of_interest', 'establishment']","21370 Homestead Road, Cupertino",37.3371416,-122.0497249
+8,"Sunnyvale, California",school,ChIJ1aWx4lDKj4ARjwJhojuW1zE,Wilson High School,"['school', 'point_of_interest', 'establishment']","1840 Benton Street, Santa Clara",37.3456286,-121.954588
+9,"Sunnyvale, California",school,ChIJixFVeO21j4ARjX-jCHttLsQ,AppleSeed Montessori School - Dunford,"['school', 'point_of_interest', 'establishment']","1095 Dunford Way Suite 500, Sunnyvale",37.3460147,-122.003265
+10,"Sunnyvale, California",school,ChIJ49n1O0O1j4AREDw8iHZil3w,Lynbrook High School,"['school', 'point_of_interest', 'establishment']","1280 Johnson Avenue, San Jose",37.3013378,-122.0055107
+11,"Sunnyvale, California",school,ChIJf0k_YFy0j4ARa9FUluFX1-o,Monta Vista High School,"['school', 'point_of_interest', 'establishment']","21840 McClellan Road, Cupertino",37.3149946,-122.0562395
+12,"Sunnyvale, California",school,ChIJfdzwVCyxj4ARloMA6sL5dR8,St. Francis High School,"['school', 'point_of_interest', 'establishment']","1885 Miramonte Avenue, Mountain View",37.3695904,-122.0863418
+13,"Sunnyvale, California",school,ChIJx0rMKD-2j4ARTWlt5-ryRfA,Bay Test Prep,"['school', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+14,"Sunnyvale, California",school,ChIJy3EyMQLKj4ARUB-7LPOv0DI,Adrian Wilcox High School,"['school', 'point_of_interest', 'establishment']","3250 Monroe Street, Santa Clara",37.36613810000001,-121.9863612
+15,"Sunnyvale, California",school,ChIJgwdEczm2j4ARMkYS1Hi1vtE,The King's Academy,"['school', 'point_of_interest', 'establishment']","562 North Britton Avenue, Sunnyvale",37.3864917,-122.0119268
+16,"Sunnyvale, California",school,ChIJwXq3YNOwj4ARn69uyQDyuJI,Graham Middle School,"['school', 'point_of_interest', 'establishment']","1175 Castro Street, Mountain View",37.3819695,-122.085526
+17,"Sunnyvale, California",school,ChIJx0rMKD-2j4ARLeqHb2htzNA,GRE Classes,"['school', 'place_of_worship', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+18,"Sunnyvale, California",school,ChIJhTTDE4G2j4AR1AVmcAUTwWU,Challenger School - Sunnyvale,"['school', 'point_of_interest', 'establishment']","1185 Hollenbeck Avenue, Sunnyvale",37.3552714,-122.042332
+0,"Cupertino, California",school,ChIJKX2XuyY1joAR_E_Kl-kPmZk,Valley International Academy,"['school', 'point_of_interest', 'establishment']","1 West Campbell Avenue B20, Campbell",37.2875381,-121.9508956
+1,"Cupertino, California",school,ChIJE_bXRCK0j4ARvlf_0KXbcuY,Cupertino Middle School,"['school', 'point_of_interest', 'establishment']","1650 South Bernardo Avenue, Sunnyvale",37.339445,-122.0590275
+2,"Cupertino, California",school,ChIJVxlK2vW2j4ARZ5v2SqQSw0k,Stratford School - Sunnyvale Washington Park,"['school', 'point_of_interest', 'establishment']","820 West McKinley Avenue, Sunnyvale",37.3754868,-122.0402396
+3,"Cupertino, California",school,ChIJRYH3xqvKj4ARTHkA8IdRIZw,Gymboree Play & Music,"['school', 'point_of_interest', 'establishment']","1600 Saratoga Avenue #425, San Jose",37.29146900000001,-121.9892552
+4,"Cupertino, California",school,ChIJh3Vpmcy2j4ARhE2REdnkCv8,Georgina P Blach Intermediate School,"['school', 'point_of_interest', 'establishment']","1120 Covington Road, Los Altos",37.3639546,-122.0828567
+5,"Cupertino, California",school,ChIJN-Cbb7m2j4ARaLTgeL9GcDs,Mountain View High School,"['school', 'point_of_interest', 'establishment']","3535 Truman Avenue, Mountain View",37.35960490000001,-122.066855
+6,"Cupertino, California",school,ChIJmRiO99G2j4ARoLWEnn40al8,El Camino YMCA,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","2400 Grant Road, Mountain View",37.3707115,-122.0787925
+7,"Cupertino, California",school,ChIJWVqdmFG1j4ARWWihJGsO3Ys,Prospect High School,"['school', 'point_of_interest', 'establishment']","18900 Prospect Road, Saratoga",37.292373,-122.001051
+8,"Cupertino, California",school,ChIJf57tZDC0j4ARXYTN0nN6GtM,Homestead High School,"['school', 'point_of_interest', 'establishment']","21370 Homestead Road, Cupertino",37.3371416,-122.0497249
+9,"Cupertino, California",school,ChIJ1aWx4lDKj4ARjwJhojuW1zE,Wilson High School,"['school', 'point_of_interest', 'establishment']","1840 Benton Street, Santa Clara",37.3456286,-121.954588
+10,"Cupertino, California",school,ChIJ49n1O0O1j4AREDw8iHZil3w,Lynbrook High School,"['school', 'point_of_interest', 'establishment']","1280 Johnson Avenue, San Jose",37.3013378,-122.0055107
+11,"Cupertino, California",school,ChIJf0k_YFy0j4ARa9FUluFX1-o,Monta Vista High School,"['school', 'point_of_interest', 'establishment']","21840 McClellan Road, Cupertino",37.3149946,-122.0562395
+12,"Cupertino, California",school,ChIJixFVeO21j4ARjX-jCHttLsQ,AppleSeed Montessori School - Dunford,"['school', 'point_of_interest', 'establishment']","1095 Dunford Way Suite 500, Sunnyvale",37.3460147,-122.003265
+13,"Cupertino, California",school,ChIJ3VxCBmc1joARg1YukJGl6UE,Westmont High School,"['school', 'point_of_interest', 'establishment']","4805 Westmont Avenue, Campbell",37.2708751,-121.9857147
+14,"Cupertino, California",school,ChIJy3EyMQLKj4ARUB-7LPOv0DI,Adrian Wilcox High School,"['school', 'point_of_interest', 'establishment']","3250 Monroe Street, Santa Clara",37.36613810000001,-121.9863612
+15,"Cupertino, California",school,ChIJfdzwVCyxj4ARloMA6sL5dR8,St. Francis High School,"['school', 'point_of_interest', 'establishment']","1885 Miramonte Avenue, Mountain View",37.3695904,-122.0863418
+16,"Cupertino, California",school,ChIJx0rMKD-2j4ARTWlt5-ryRfA,Bay Test Prep,"['school', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+17,"Cupertino, California",school,ChIJhTTDE4G2j4AR1AVmcAUTwWU,Challenger School - Sunnyvale,"['school', 'point_of_interest', 'establishment']","1185 Hollenbeck Avenue, Sunnyvale",37.3552714,-122.042332
+18,"Cupertino, California",school,ChIJgwdEczm2j4ARMkYS1Hi1vtE,The King's Academy,"['school', 'point_of_interest', 'establishment']","562 North Britton Avenue, Sunnyvale",37.3864917,-122.0119268
+19,"Cupertino, California",school,ChIJx0rMKD-2j4ARLeqHb2htzNA,GRE Classes,"['school', 'place_of_worship', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+20,"Cupertino, California",school,ChIJKX2XuyY1joAR_E_Kl-kPmZk,Valley International Academy,"['school', 'point_of_interest', 'establishment']","1 West Campbell Avenue B20, Campbell",37.2875381,-121.9508956
+21,"Cupertino, California",school,ChIJE_bXRCK0j4ARvlf_0KXbcuY,Cupertino Middle School,"['school', 'point_of_interest', 'establishment']","1650 South Bernardo Avenue, Sunnyvale",37.339445,-122.0590275
+22,"Cupertino, California",school,ChIJVxlK2vW2j4ARZ5v2SqQSw0k,Stratford School - Sunnyvale Washington Park,"['school', 'point_of_interest', 'establishment']","820 West McKinley Avenue, Sunnyvale",37.3754868,-122.0402396
+23,"Cupertino, California",school,ChIJRYH3xqvKj4ARTHkA8IdRIZw,Gymboree Play & Music,"['school', 'point_of_interest', 'establishment']","1600 Saratoga Avenue #425, San Jose",37.29146900000001,-121.9892552
+24,"Cupertino, California",school,ChIJh3Vpmcy2j4ARhE2REdnkCv8,Georgina P Blach Intermediate School,"['school', 'point_of_interest', 'establishment']","1120 Covington Road, Los Altos",37.3639546,-122.0828567
+25,"Cupertino, California",school,ChIJN-Cbb7m2j4ARaLTgeL9GcDs,Mountain View High School,"['school', 'point_of_interest', 'establishment']","3535 Truman Avenue, Mountain View",37.35960490000001,-122.066855
+26,"Cupertino, California",school,ChIJmRiO99G2j4ARoLWEnn40al8,El Camino YMCA,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","2400 Grant Road, Mountain View",37.3707115,-122.0787925
+27,"Cupertino, California",school,ChIJWVqdmFG1j4ARWWihJGsO3Ys,Prospect High School,"['school', 'point_of_interest', 'establishment']","18900 Prospect Road, Saratoga",37.292373,-122.001051
+28,"Cupertino, California",school,ChIJf57tZDC0j4ARXYTN0nN6GtM,Homestead High School,"['school', 'point_of_interest', 'establishment']","21370 Homestead Road, Cupertino",37.3371416,-122.0497249
+29,"Cupertino, California",school,ChIJ1aWx4lDKj4ARjwJhojuW1zE,Wilson High School,"['school', 'point_of_interest', 'establishment']","1840 Benton Street, Santa Clara",37.3456286,-121.954588
+30,"Cupertino, California",school,ChIJ49n1O0O1j4AREDw8iHZil3w,Lynbrook High School,"['school', 'point_of_interest', 'establishment']","1280 Johnson Avenue, San Jose",37.3013378,-122.0055107
+31,"Cupertino, California",school,ChIJf0k_YFy0j4ARa9FUluFX1-o,Monta Vista High School,"['school', 'point_of_interest', 'establishment']","21840 McClellan Road, Cupertino",37.3149946,-122.0562395
+32,"Cupertino, California",school,ChIJixFVeO21j4ARjX-jCHttLsQ,AppleSeed Montessori School - Dunford,"['school', 'point_of_interest', 'establishment']","1095 Dunford Way Suite 500, Sunnyvale",37.3460147,-122.003265
+33,"Cupertino, California",school,ChIJ3VxCBmc1joARg1YukJGl6UE,Westmont High School,"['school', 'point_of_interest', 'establishment']","4805 Westmont Avenue, Campbell",37.2708751,-121.9857147
+34,"Cupertino, California",school,ChIJy3EyMQLKj4ARUB-7LPOv0DI,Adrian Wilcox High School,"['school', 'point_of_interest', 'establishment']","3250 Monroe Street, Santa Clara",37.36613810000001,-121.9863612
+35,"Cupertino, California",school,ChIJfdzwVCyxj4ARloMA6sL5dR8,St. Francis High School,"['school', 'point_of_interest', 'establishment']","1885 Miramonte Avenue, Mountain View",37.3695904,-122.0863418
+36,"Cupertino, California",school,ChIJx0rMKD-2j4ARTWlt5-ryRfA,Bay Test Prep,"['school', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+37,"Cupertino, California",school,ChIJhTTDE4G2j4AR1AVmcAUTwWU,Challenger School - Sunnyvale,"['school', 'point_of_interest', 'establishment']","1185 Hollenbeck Avenue, Sunnyvale",37.3552714,-122.042332
+38,"Cupertino, California",school,ChIJgwdEczm2j4ARMkYS1Hi1vtE,The King's Academy,"['school', 'point_of_interest', 'establishment']","562 North Britton Avenue, Sunnyvale",37.3864917,-122.0119268
+39,"Cupertino, California",school,ChIJx0rMKD-2j4ARLeqHb2htzNA,GRE Classes,"['school', 'place_of_worship', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+40,"Cupertino, California",school,ChIJKX2XuyY1joAR_E_Kl-kPmZk,Valley International Academy,"['school', 'point_of_interest', 'establishment']","1 West Campbell Avenue B20, Campbell",37.2875381,-121.9508956
+41,"Cupertino, California",school,ChIJE_bXRCK0j4ARvlf_0KXbcuY,Cupertino Middle School,"['school', 'point_of_interest', 'establishment']","1650 South Bernardo Avenue, Sunnyvale",37.339445,-122.0590275
+42,"Cupertino, California",school,ChIJVxlK2vW2j4ARZ5v2SqQSw0k,Stratford School - Sunnyvale Washington Park,"['school', 'point_of_interest', 'establishment']","820 West McKinley Avenue, Sunnyvale",37.3754868,-122.0402396
+43,"Cupertino, California",school,ChIJRYH3xqvKj4ARTHkA8IdRIZw,Gymboree Play & Music,"['school', 'point_of_interest', 'establishment']","1600 Saratoga Avenue #425, San Jose",37.29146900000001,-121.9892552
+44,"Cupertino, California",school,ChIJh3Vpmcy2j4ARhE2REdnkCv8,Georgina P Blach Intermediate School,"['school', 'point_of_interest', 'establishment']","1120 Covington Road, Los Altos",37.3639546,-122.0828567
+45,"Cupertino, California",school,ChIJN-Cbb7m2j4ARaLTgeL9GcDs,Mountain View High School,"['school', 'point_of_interest', 'establishment']","3535 Truman Avenue, Mountain View",37.35960490000001,-122.066855
+46,"Cupertino, California",school,ChIJmRiO99G2j4ARoLWEnn40al8,El Camino YMCA,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","2400 Grant Road, Mountain View",37.3707115,-122.0787925
+47,"Cupertino, California",school,ChIJWVqdmFG1j4ARWWihJGsO3Ys,Prospect High School,"['school', 'point_of_interest', 'establishment']","18900 Prospect Road, Saratoga",37.292373,-122.001051
+48,"Cupertino, California",school,ChIJf57tZDC0j4ARXYTN0nN6GtM,Homestead High School,"['school', 'point_of_interest', 'establishment']","21370 Homestead Road, Cupertino",37.3371416,-122.0497249
+49,"Cupertino, California",school,ChIJ1aWx4lDKj4ARjwJhojuW1zE,Wilson High School,"['school', 'point_of_interest', 'establishment']","1840 Benton Street, Santa Clara",37.3456286,-121.954588
+50,"Cupertino, California",school,ChIJ49n1O0O1j4AREDw8iHZil3w,Lynbrook High School,"['school', 'point_of_interest', 'establishment']","1280 Johnson Avenue, San Jose",37.3013378,-122.0055107
+51,"Cupertino, California",school,ChIJf0k_YFy0j4ARa9FUluFX1-o,Monta Vista High School,"['school', 'point_of_interest', 'establishment']","21840 McClellan Road, Cupertino",37.3149946,-122.0562395
+52,"Cupertino, California",school,ChIJixFVeO21j4ARjX-jCHttLsQ,AppleSeed Montessori School - Dunford,"['school', 'point_of_interest', 'establishment']","1095 Dunford Way Suite 500, Sunnyvale",37.3460147,-122.003265
+53,"Cupertino, California",school,ChIJ3VxCBmc1joARg1YukJGl6UE,Westmont High School,"['school', 'point_of_interest', 'establishment']","4805 Westmont Avenue, Campbell",37.2708751,-121.9857147
+54,"Cupertino, California",school,ChIJy3EyMQLKj4ARUB-7LPOv0DI,Adrian Wilcox High School,"['school', 'point_of_interest', 'establishment']","3250 Monroe Street, Santa Clara",37.36613810000001,-121.9863612
+55,"Cupertino, California",school,ChIJfdzwVCyxj4ARloMA6sL5dR8,St. Francis High School,"['school', 'point_of_interest', 'establishment']","1885 Miramonte Avenue, Mountain View",37.3695904,-122.0863418
+56,"Cupertino, California",school,ChIJx0rMKD-2j4ARTWlt5-ryRfA,Bay Test Prep,"['school', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+57,"Cupertino, California",school,ChIJhTTDE4G2j4AR1AVmcAUTwWU,Challenger School - Sunnyvale,"['school', 'point_of_interest', 'establishment']","1185 Hollenbeck Avenue, Sunnyvale",37.3552714,-122.042332
+58,"Cupertino, California",school,ChIJgwdEczm2j4ARMkYS1Hi1vtE,The King's Academy,"['school', 'point_of_interest', 'establishment']","562 North Britton Avenue, Sunnyvale",37.3864917,-122.0119268
+59,"Cupertino, California",school,ChIJx0rMKD-2j4ARLeqHb2htzNA,GRE Classes,"['school', 'place_of_worship', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+0,"Santa Clara, California",school,ChIJWcFAx23Lj4AR6b_fwdq6DRA,Central YMCA,"['health', 'school', 'point_of_interest', 'establishment']","1717 The Alameda, San Jose",37.3375463,-121.9202211
+1,"Santa Clara, California",school,ChIJKX2XuyY1joAR_E_Kl-kPmZk,Valley International Academy,"['school', 'point_of_interest', 'establishment']","1 West Campbell Avenue B20, Campbell",37.2875381,-121.9508956
+2,"Santa Clara, California",school,ChIJVxlK2vW2j4ARZ5v2SqQSw0k,Stratford School - Sunnyvale Washington Park,"['school', 'point_of_interest', 'establishment']","820 West McKinley Avenue, Sunnyvale",37.3754868,-122.0402396
+3,"Santa Clara, California",school,ChIJRYH3xqvKj4ARTHkA8IdRIZw,Gymboree Play & Music,"['school', 'point_of_interest', 'establishment']","1600 Saratoga Avenue #425, San Jose",37.29146900000001,-121.9892552
+4,"Santa Clara, California",school,ChIJ1aWx4lDKj4ARjwJhojuW1zE,Wilson High School,"['school', 'point_of_interest', 'establishment']","1840 Benton Street, Santa Clara",37.3456286,-121.954588
+5,"Santa Clara, California",school,ChIJ9ZRunXHLj4AROaffNl5ZWeY,Bellarmine College Preparatory,"['school', 'point_of_interest', 'establishment']","960 West Hedding Street, San Jose",37.342483,-121.917904
+6,"Santa Clara, California",school,ChIJBxOKkLbMj4AR2peMoDBh-WQ,Notre Dame High School,"['school', 'point_of_interest', 'establishment']","596 South 2nd Street, San Jose",37.328303,-121.882555
+7,"Santa Clara, California",school,ChIJWVqdmFG1j4ARWWihJGsO3Ys,Prospect High School,"['school', 'point_of_interest', 'establishment']","18900 Prospect Road, Saratoga",37.292373,-122.001051
+8,"Santa Clara, California",school,ChIJF6docgjMj4ARxj4yi43Hm7c,Headstart,"['school', 'point_of_interest', 'establishment']","1290 Ridder Park Drive, San Jose",37.3837149,-121.9002625
+9,"Santa Clara, California",school,ChIJ49n1O0O1j4AREDw8iHZil3w,Lynbrook High School,"['school', 'point_of_interest', 'establishment']","1280 Johnson Avenue, San Jose",37.3013378,-122.0055107
+10,"Santa Clara, California",school,ChIJaT4HshbLj4AR61_lyDsnl7s,Lincoln High School,"['school', 'point_of_interest', 'establishment']","555 Dana Avenue, San Jose",37.3280532,-121.9240955
+11,"Santa Clara, California",school,ChIJixFVeO21j4ARjX-jCHttLsQ,AppleSeed Montessori School - Dunford,"['school', 'point_of_interest', 'establishment']","1095 Dunford Way Suite 500, Sunnyvale",37.3460147,-122.003265
+12,"Santa Clara, California",school,ChIJGwqfw5jMj4ARfD0x4JTc2Ow,Dream Dance Choreography,"['school', 'point_of_interest', 'establishment']",San Jose,37.3393857,-121.8949555
+13,"Santa Clara, California",school,ChIJQZ2hLarLj4ARJWTHn04OS3U,Buchser Middle School,"['school', 'point_of_interest', 'establishment']","1111 Bellomy Street, Santa Clara",37.3455773,-121.9430521
+14,"Santa Clara, California",school,ChIJf57tZDC0j4ARXYTN0nN6GtM,Homestead High School,"['school', 'point_of_interest', 'establishment']","21370 Homestead Road, Cupertino",37.3371416,-122.0497249
+15,"Santa Clara, California",school,ChIJy3EyMQLKj4ARUB-7LPOv0DI,Adrian Wilcox High School,"['school', 'point_of_interest', 'establishment']","3250 Monroe Street, Santa Clara",37.36613810000001,-121.9863612
+16,"Santa Clara, California",school,ChIJU7eD6IXLj4ARxtnMLv6zazg,South Bay Dance Fling,"['school', 'point_of_interest', 'establishment']","1350 North 1st Street, San Jose",37.3617178,-121.9084639
+17,"Santa Clara, California",school,ChIJx0rMKD-2j4ARTWlt5-ryRfA,Bay Test Prep,"['school', 'point_of_interest', 'establishment']","440 North Wolfe Road, Sunnyvale",37.383565,-122.0130042
+18,"Santa Clara, California",school,ChIJgwdEczm2j4ARMkYS1Hi1vtE,The King's Academy,"['school', 'point_of_interest', 'establishment']","562 North Britton Avenue, Sunnyvale",37.3864917,-122.0119268
+0,"San Jose, California",school,ChIJWcFAx23Lj4AR6b_fwdq6DRA,Central YMCA,"['health', 'school', 'point_of_interest', 'establishment']","1717 The Alameda, San Jose",37.3375463,-121.9202211
+1,"San Jose, California",school,ChIJv-KnK2EyjoARNKKPryOUD3s,Andrew P Hill High School,"['school', 'point_of_interest', 'establishment']","3200 Senter Road, San Jose",37.2922264,-121.8312164
+2,"San Jose, California",school,ChIJKX2XuyY1joAR_E_Kl-kPmZk,Valley International Academy,"['school', 'point_of_interest', 'establishment']","1 West Campbell Avenue B20, Campbell",37.2875381,-121.9508956
+3,"San Jose, California",school,ChIJ8WOxN9HNj4AR1DpxS70itxs,Piedmont Hills High School,"['school', 'point_of_interest', 'establishment']","1377 Piedmont Road, San Jose",37.4024306,-121.8505235
+4,"San Jose, California",school,ChIJz46FB34zjoARdcz08wbp4i8,Presentation High School,"['school', 'point_of_interest', 'establishment']","2281 Plummer Avenue, San Jose",37.283094,-121.900433
+5,"San Jose, California",school,ChIJc3qnWxEyjoARd5Phrn8NiEI,Valley Christian Athletic Office,"['school', 'point_of_interest', 'establishment']","100 Skyway Drive, San Jose",37.2763217,-121.8269007
+6,"San Jose, California",school,ChIJ1aWx4lDKj4ARjwJhojuW1zE,Wilson High School,"['school', 'point_of_interest', 'establishment']","1840 Benton Street, Santa Clara",37.3456286,-121.954588
+7,"San Jose, California",school,ChIJ9ZRunXHLj4AROaffNl5ZWeY,Bellarmine College Preparatory,"['school', 'point_of_interest', 'establishment']","960 West Hedding Street, San Jose",37.342483,-121.917904
+8,"San Jose, California",school,ChIJBxOKkLbMj4AR2peMoDBh-WQ,Notre Dame High School,"['school', 'point_of_interest', 'establishment']","596 South 2nd Street, San Jose",37.328303,-121.882555
+9,"San Jose, California",school,ChIJF6docgjMj4ARxj4yi43Hm7c,Headstart,"['school', 'point_of_interest', 'establishment']","1290 Ridder Park Drive, San Jose",37.3837149,-121.9002625
+10,"San Jose, California",school,ChIJaT4HshbLj4AR61_lyDsnl7s,Lincoln High School,"['school', 'point_of_interest', 'establishment']","555 Dana Avenue, San Jose",37.3280532,-121.9240955
+11,"San Jose, California",school,ChIJGwqfw5jMj4ARfD0x4JTc2Ow,Dream Dance Choreography,"['school', 'point_of_interest', 'establishment']",San Jose,37.3393857,-121.8949555
+12,"San Jose, California",school,ChIJa3tqDoEtjoAR35lM7Td6J-4,Silver Creek High School,"['school', 'point_of_interest', 'establishment']","3434 Silver Creek Road, San Jose",37.3040023,-121.8052924
+13,"San Jose, California",school,ChIJlXLDU9oyjoARv3QIP0i7Fts,Yerba Buena High School,"['school', 'point_of_interest', 'establishment']","1855 Lucretia Avenue, San Jose",37.320309,-121.8485219
+14,"San Jose, California",school,ChIJQZ2hLarLj4ARJWTHn04OS3U,Buchser Middle School,"['school', 'point_of_interest', 'establishment']","1111 Bellomy Street, Santa Clara",37.3455773,-121.9430521
+15,"San Jose, California",school,ChIJU7eD6IXLj4ARxtnMLv6zazg,South Bay Dance Fling,"['school', 'point_of_interest', 'establishment']","1350 North 1st Street, San Jose",37.3617178,-121.9084639
+16,"San Jose, California",school,ChIJKX2XuyY1joARQDbVkmYcwDQ,Stellar Learning Academy,"['school', 'point_of_interest', 'establishment']","2503 Easton Place #38, San Jose",37.373783,-121.850459
+17,"San Jose, California",school,ChIJX5oK92IzjoARfhnB2bem-Zo,Willow Glen High School,"['school', 'point_of_interest', 'establishment']","2001 Cottle Avenue, San Jose",37.29000509999999,-121.8978028
+18,"San Jose, California",school,ChIJ1WFq0qrSj4ARRLmVqrPNlgA,Mt. Pleasant High School,"['school', 'point_of_interest', 'establishment']","1750 South White Road, San Jose",37.3461624,-121.8082669
+19,"San Jose, California",school,ChIJ0_7MD6M0joARRRjFpIGVYfk,Congregation Sinai,"['synagogue', 'place_of_worship', 'school', 'point_of_interest', 'establishment']","1532 Willowbrae Avenue, San Jose",37.2973984,-121.910595
+20,"San Jose, California",school,ChIJWcFAx23Lj4AR6b_fwdq6DRA,Central YMCA,"['health', 'school', 'point_of_interest', 'establishment']","1717 The Alameda, San Jose",37.3375463,-121.9202211
+21,"San Jose, California",school,ChIJv-KnK2EyjoARNKKPryOUD3s,Andrew P Hill High School,"['school', 'point_of_interest', 'establishment']","3200 Senter Road, San Jose",37.2922264,-121.8312164
+22,"San Jose, California",school,ChIJKX2XuyY1joAR_E_Kl-kPmZk,Valley International Academy,"['school', 'point_of_interest', 'establishment']","1 West Campbell Avenue B20, Campbell",37.2875381,-121.9508956
+23,"San Jose, California",school,ChIJ8WOxN9HNj4AR1DpxS70itxs,Piedmont Hills High School,"['school', 'point_of_interest', 'establishment']","1377 Piedmont Road, San Jose",37.4024306,-121.8505235
+24,"San Jose, California",school,ChIJz46FB34zjoARdcz08wbp4i8,Presentation High School,"['school', 'point_of_interest', 'establishment']","2281 Plummer Avenue, San Jose",37.283094,-121.900433
+25,"San Jose, California",school,ChIJc3qnWxEyjoARd5Phrn8NiEI,Valley Christian Athletic Office,"['school', 'point_of_interest', 'establishment']","100 Skyway Drive, San Jose",37.2763217,-121.8269007
+26,"San Jose, California",school,ChIJ1aWx4lDKj4ARjwJhojuW1zE,Wilson High School,"['school', 'point_of_interest', 'establishment']","1840 Benton Street, Santa Clara",37.3456286,-121.954588
+27,"San Jose, California",school,ChIJ9ZRunXHLj4AROaffNl5ZWeY,Bellarmine College Preparatory,"['school', 'point_of_interest', 'establishment']","960 West Hedding Street, San Jose",37.342483,-121.917904
+28,"San Jose, California",school,ChIJBxOKkLbMj4AR2peMoDBh-WQ,Notre Dame High School,"['school', 'point_of_interest', 'establishment']","596 South 2nd Street, San Jose",37.328303,-121.882555
+29,"San Jose, California",school,ChIJF6docgjMj4ARxj4yi43Hm7c,Headstart,"['school', 'point_of_interest', 'establishment']","1290 Ridder Park Drive, San Jose",37.3837149,-121.9002625
+30,"San Jose, California",school,ChIJaT4HshbLj4AR61_lyDsnl7s,Lincoln High School,"['school', 'point_of_interest', 'establishment']","555 Dana Avenue, San Jose",37.3280532,-121.9240955
+31,"San Jose, California",school,ChIJGwqfw5jMj4ARfD0x4JTc2Ow,Dream Dance Choreography,"['school', 'point_of_interest', 'establishment']",San Jose,37.3393857,-121.8949555
+32,"San Jose, California",school,ChIJa3tqDoEtjoAR35lM7Td6J-4,Silver Creek High School,"['school', 'point_of_interest', 'establishment']","3434 Silver Creek Road, San Jose",37.3040023,-121.8052924
+33,"San Jose, California",school,ChIJlXLDU9oyjoARv3QIP0i7Fts,Yerba Buena High School,"['school', 'point_of_interest', 'establishment']","1855 Lucretia Avenue, San Jose",37.320309,-121.8485219
+34,"San Jose, California",school,ChIJQZ2hLarLj4ARJWTHn04OS3U,Buchser Middle School,"['school', 'point_of_interest', 'establishment']","1111 Bellomy Street, Santa Clara",37.3455773,-121.9430521
+35,"San Jose, California",school,ChIJU7eD6IXLj4ARxtnMLv6zazg,South Bay Dance Fling,"['school', 'point_of_interest', 'establishment']","1350 North 1st Street, San Jose",37.3617178,-121.9084639
+36,"San Jose, California",school,ChIJKX2XuyY1joARQDbVkmYcwDQ,Stellar Learning Academy,"['school', 'point_of_interest', 'establishment']","2503 Easton Place #38, San Jose",37.373783,-121.850459
+37,"San Jose, California",school,ChIJX5oK92IzjoARfhnB2bem-Zo,Willow Glen High School,"['school', 'point_of_interest', 'establishment']","2001 Cottle Avenue, San Jose",37.29000509999999,-121.8978028
+38,"San Jose, California",school,ChIJ1WFq0qrSj4ARRLmVqrPNlgA,Mt. Pleasant High School,"['school', 'point_of_interest', 'establishment']","1750 South White Road, San Jose",37.3461624,-121.8082669
+39,"San Jose, California",school,ChIJ0_7MD6M0joARRRjFpIGVYfk,Congregation Sinai,"['synagogue', 'place_of_worship', 'school', 'point_of_interest', 'establishment']","1532 Willowbrae Avenue, San Jose",37.2973984,-121.910595
+40,"San Jose, California",school,ChIJWcFAx23Lj4AR6b_fwdq6DRA,Central YMCA,"['health', 'school', 'point_of_interest', 'establishment']","1717 The Alameda, San Jose",37.3375463,-121.9202211
+41,"San Jose, California",school,ChIJv-KnK2EyjoARNKKPryOUD3s,Andrew P Hill High School,"['school', 'point_of_interest', 'establishment']","3200 Senter Road, San Jose",37.2922264,-121.8312164
+42,"San Jose, California",school,ChIJKX2XuyY1joAR_E_Kl-kPmZk,Valley International Academy,"['school', 'point_of_interest', 'establishment']","1 West Campbell Avenue B20, Campbell",37.2875381,-121.9508956
+43,"San Jose, California",school,ChIJ8WOxN9HNj4AR1DpxS70itxs,Piedmont Hills High School,"['school', 'point_of_interest', 'establishment']","1377 Piedmont Road, San Jose",37.4024306,-121.8505235
+44,"San Jose, California",school,ChIJz46FB34zjoARdcz08wbp4i8,Presentation High School,"['school', 'point_of_interest', 'establishment']","2281 Plummer Avenue, San Jose",37.283094,-121.900433
+45,"San Jose, California",school,ChIJc3qnWxEyjoARd5Phrn8NiEI,Valley Christian Athletic Office,"['school', 'point_of_interest', 'establishment']","100 Skyway Drive, San Jose",37.2763217,-121.8269007
+46,"San Jose, California",school,ChIJ1aWx4lDKj4ARjwJhojuW1zE,Wilson High School,"['school', 'point_of_interest', 'establishment']","1840 Benton Street, Santa Clara",37.3456286,-121.954588
+47,"San Jose, California",school,ChIJ9ZRunXHLj4AROaffNl5ZWeY,Bellarmine College Preparatory,"['school', 'point_of_interest', 'establishment']","960 West Hedding Street, San Jose",37.342483,-121.917904
+48,"San Jose, California",school,ChIJBxOKkLbMj4AR2peMoDBh-WQ,Notre Dame High School,"['school', 'point_of_interest', 'establishment']","596 South 2nd Street, San Jose",37.328303,-121.882555
+49,"San Jose, California",school,ChIJF6docgjMj4ARxj4yi43Hm7c,Headstart,"['school', 'point_of_interest', 'establishment']","1290 Ridder Park Drive, San Jose",37.3837149,-121.9002625
+50,"San Jose, California",school,ChIJaT4HshbLj4AR61_lyDsnl7s,Lincoln High School,"['school', 'point_of_interest', 'establishment']","555 Dana Avenue, San Jose",37.3280532,-121.9240955
+51,"San Jose, California",school,ChIJGwqfw5jMj4ARfD0x4JTc2Ow,Dream Dance Choreography,"['school', 'point_of_interest', 'establishment']",San Jose,37.3393857,-121.8949555
+52,"San Jose, California",school,ChIJa3tqDoEtjoAR35lM7Td6J-4,Silver Creek High School,"['school', 'point_of_interest', 'establishment']","3434 Silver Creek Road, San Jose",37.3040023,-121.8052924
+53,"San Jose, California",school,ChIJlXLDU9oyjoARv3QIP0i7Fts,Yerba Buena High School,"['school', 'point_of_interest', 'establishment']","1855 Lucretia Avenue, San Jose",37.320309,-121.8485219
+54,"San Jose, California",school,ChIJQZ2hLarLj4ARJWTHn04OS3U,Buchser Middle School,"['school', 'point_of_interest', 'establishment']","1111 Bellomy Street, Santa Clara",37.3455773,-121.9430521
+55,"San Jose, California",school,ChIJU7eD6IXLj4ARxtnMLv6zazg,South Bay Dance Fling,"['school', 'point_of_interest', 'establishment']","1350 North 1st Street, San Jose",37.3617178,-121.9084639
+56,"San Jose, California",school,ChIJKX2XuyY1joARQDbVkmYcwDQ,Stellar Learning Academy,"['school', 'point_of_interest', 'establishment']","2503 Easton Place #38, San Jose",37.373783,-121.850459
+57,"San Jose, California",school,ChIJX5oK92IzjoARfhnB2bem-Zo,Willow Glen High School,"['school', 'point_of_interest', 'establishment']","2001 Cottle Avenue, San Jose",37.29000509999999,-121.8978028
+58,"San Jose, California",school,ChIJ1WFq0qrSj4ARRLmVqrPNlgA,Mt. Pleasant High School,"['school', 'point_of_interest', 'establishment']","1750 South White Road, San Jose",37.3461624,-121.8082669
+59,"San Jose, California",school,ChIJ0_7MD6M0joARRRjFpIGVYfk,Congregation Sinai,"['synagogue', 'place_of_worship', 'school', 'point_of_interest', 'establishment']","1532 Willowbrae Avenue, San Jose",37.2973984,-121.910595
+0,"Fremont, California",school,ChIJE1WOHjTHj4AR_1XQHn8CEMc,Irvington High School,"['school', 'point_of_interest', 'establishment']","41800 Blacow Road, Fremont",37.5238641,-121.9669902
+1,"Fremont, California",school,ChIJ3xyX2n2_j4ARsPcmftHPp2g,Washington High School,"['school', 'point_of_interest', 'establishment']","38442 Fremont Boulevard, Fremont",37.5528198,-121.9948276
+2,"Fremont, California",school,ChIJzR9FszHBj4ARbo09jf09Fp8,Mission San Jose High School,"['school', 'point_of_interest', 'establishment']","41717 Palm Avenue, Fremont",37.5442976,-121.933798
+3,"Fremont, California",school,ChIJG92P45u_j4AR6btTDfJf4Hw,Learn and Play Montessori School,"['school', 'point_of_interest', 'establishment']","37220 Maple Street, Fremont",37.5583453,-122.0096866
+4,"Fremont, California",school,ChIJG8B0vb2_j4AR2PwPZrDNqC8,American High School,"['school', 'point_of_interest', 'establishment']","36300 Fremont Boulevard, Fremont",37.5644828,-122.0164373
+5,"Fremont, California",school,ChIJlfpEP1K_j4AR565l4tSZckM,Newark Memorial High School,"['school', 'point_of_interest', 'establishment']","39375 Cedar Boulevard, Newark",37.520482,-122.0024919
+6,"Fremont, California",school,ChIJ4eBWT4C_j4ARlSLzszit2D8,Nurture Kids Pre-School,"['school', 'point_of_interest', 'establishment']","38000 Camden Street, Fremont",37.5576379,-121.9942273
+7,"Fremont, California",school,ChIJ4aAqgZmVj4AR5THPeuWHn9Q,Pacific West Gymnastics,"['gym', 'health', 'school', 'point_of_interest', 'establishment']","32920 Alvarado-Niles Road #210, Union City",37.596174,-122.046543
+8,"Fremont, California",school,ChIJIenHEwWVj4ARAxXOa3dJ124,Conley Caraballo High School,"['school', 'point_of_interest', 'establishment']","541 Blanche Street, Hayward",37.61509340000001,-122.0284784
+9,"Fremont, California",school,ChIJY_JiYJqVj4ARA2UAUwHd47E,Cesar Chavez Middle School,"['school', 'point_of_interest', 'establishment']","2801 Hop Ranch Road, Union City",37.59129410000001,-122.0483208
+10,"Fremont, California",school,ChIJnwZWKS3Bj4AR6iYNF_U-tn8,Gan Sameach Nursery School,"['school', 'point_of_interest', 'establishment']","42000 Paseo Padre Parkway, Fremont",37.5359665,-121.9379795
+11,"Fremont, California",school,ChIJ3etPza7Aj4AR6Mqf9XJKlXs,John F. Kennedy High School,"['school', 'point_of_interest', 'establishment']","39999 Blacow Road, Fremont",37.5286578,-121.9866462
+12,"Fremont, California",school,ChIJIw4-bIK_j4ARRWf9wTrD1Ko,Centerville Junior High School,"['school', 'point_of_interest', 'establishment']","37720 Fremont Boulevard, Fremont",37.555265,-122.001007
+13,"Fremont, California",school,ChIJ36T9Tzi-j4ARAmD8QlZwFDA,Forest Park Elementary School,"['school', 'point_of_interest', 'establishment']","34400 Maybird Circle, Fremont",37.562005,-122.052253
+14,"Fremont, California",school,ChIJiaERoP--j4AR12EXunVmD8o,Newark Junior High School,"['school', 'point_of_interest', 'establishment']","6201 Lafayette Avenue, Newark",37.5416208,-122.0402327
+15,"Fremont, California",school,ChIJtRp-plu-j4ARw4PzordiGyU,Challenger School - Ardenwood,"['school', 'point_of_interest', 'establishment']","35487 Dumbarton Court, Newark",37.5469301,-122.0532952
+16,"Fremont, California",school,ChIJ08qxnCbBj4AR1_3R-cCR1iI,Hopkins Junior High School,"['school', 'point_of_interest', 'establishment']","600 Driscoll Road, Fremont",37.5465764,-121.9416064
+17,"Fremont, California",school,ChIJHyyKKfvAj4ARTmBfYVWYp04,Kimber Hills Academy,"['finance', 'school', 'point_of_interest', 'establishment']","39700 Mission Boulevard, Fremont",37.5593191,-121.9536436
+18,"Fremont, California",school,ChIJM5MlmgO-j4ARID2piyHTHsE,Delaine Eastin Elementary School,"['school', 'point_of_interest', 'establishment']","34901 Eastin Drive, Union City",37.5675191,-122.07419
