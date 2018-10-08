@@ -1,0 +1,178 @@
+,City,Type,Place ID,Name,Point of interests,Address,Lat,Lng
+0,"San Francisco, California",airport,ChIJD6cXnImAhYAR819z7iMAEPs,Service Tracking Systems,"['airport', 'parking', 'point_of_interest', 'establishment']","237 Kearny Street #306, San Francisco",37.79048389999999,-122.4041815
+1,"San Francisco, California",airport,ChIJYUYfzSJ_j4ARbmS-4TAmIpw,A2 Global Shipping,"['airport', 'moving_company', 'finance', 'storage', 'point_of_interest', 'establishment']","1828 Egbert Avenue #2a, San Francisco",37.7276746,-122.4004735
+2,"San Francisco, California",airport,ChIJOWs6Nrx-j4ARpTNY9rgmq9Q,SF BLACK LIMO,"['airport', 'point_of_interest', 'establishment']","324 South Hill Boulevard, San Francisco",37.708521,-122.431092
+3,"San Francisco, California",airport,ChIJAQAAQIyAhYARFyzn8XrbmI0,Design To Win Foundation,"['airport', 'point_of_interest', 'establishment']",San Francisco,37.7909427,-122.4084994
+4,"San Francisco, California",airport,ChIJs35C8Q5_j4ARDqPwIfyo6MI,SFO,"['airport', 'point_of_interest', 'establishment']","1207 Ridge Court, San Francisco",37.7093338,-122.4255863
+5,"San Francisco, California",airport,ChIJM8gdtS-AhYARk8_k9tj9ws4,Building 3,"['premise', 'airport', 'point_of_interest', 'establishment']",San Francisco,37.8193829,-122.3658344
+0,"Napa, California",airport,ChIJQZbW-zYJhYARxZoyZAE3lnk,Napa County Airport,"['airport', 'point_of_interest', 'establishment']","2030 Airport Road, Napa",38.2172561,-122.2730219
+1,"Napa, California",airport,ChIJxYvWjyUGhYARgyghPgtR2zg,Mysterious Valley Airport-20CL,"['airport', 'point_of_interest', 'establishment']","Highway 16, Napa",38.271643,-122.298716
+2,"Napa, California",airport,ChIJG8bUJ-oGhYARj7PBbCzKqUQ,Queen of the Valley Hospital Heliport,"['airport', 'point_of_interest', 'establishment']","1000 Trancas Street, Napa",38.3238965,-122.2971785
+3,"Napa, California",airport,ChIJsxe_qkIJhYARPvs7w-wuMX0,Lynx FBO,"['airport', 'point_of_interest', 'establishment']",057050009000,38.2166114,-122.2728743
+0,"Sonoma, California",airport,ChIJY9vCoVOvhYAR67N8XZtpKA8,Sonoma Valley Airport-0Q3,"['airport', 'point_of_interest', 'establishment']","23980 Arnold Drive, Sonoma",38.2235622,-122.4528621
+1,"Sonoma, California",airport,ChIJSbG_09mohYAR4PkIAJSjUX0,Sonoma Skypark,"['airport', 'point_of_interest', 'establishment']","21870 8th Street East, Sonoma",38.257627,-122.4346365
+2,"Sonoma, California",airport,ChIJLTlD7NmohYARHtnRC8TKCdw,0Q9 CTAF 122.8,"['airport', 'point_of_interest', 'establishment']",Sonoma,38.2574402,-122.4342092
+3,"Sonoma, California",airport,ChIJh49TQ1GvhYARcsDpOY_dOZ8,0Q3 CTAF 122.9,"['airport', 'point_of_interest', 'establishment']",Sonoma,38.2233105,-122.4531071
+0,"San Mateo, California",airport,ChIJVVVVVYx3j4ARP-3NGldc8qQ,San Francisco International Airport,"['airport', 'point_of_interest', 'establishment']",San Francisco,37.6213129,-122.3789554
+1,"San Mateo, California",airport,ChIJ8fmOvjOij4ARzpIrFfHo_w4,San Carlos Airport,"['airport', 'premise', 'point_of_interest', 'establishment']","620 Airport Way, San Carlos",37.5153754,-122.2503052
+2,"San Mateo, California",airport,ChIJvUqR4wKij4ARwHvDpEr1dnA,San Mateo County Transit District,"['airport', 'local_government_office', 'point_of_interest', 'establishment']","1250 San Carlos Avenue, San Carlos",37.5064299,-122.2619171
+3,"San Mateo, California",airport,ChIJUzU5gwiij4ARRWjKZOgy78Y,Bay Aerial Helicopter Service,"['airport', 'point_of_interest', 'establishment']","815 Skyway Road, San Carlos",37.50882500000001,-122.248947
+4,"San Mateo, California",airport,ChIJtw7fco2dj4ARs78lAh8Ua7A,BUTTERFLY LIMOUSINE SERVICE,"['airport', 'lodging', 'point_of_interest', 'establishment']","255 Wisteria Drive, Palo Alto",37.5865632,-122.346102
+5,"San Mateo, California",airport,ChIJI7lPzCV4j4AR-nlkIV-AMgA,Signature Flight Support SFO - San Francisco International Airport,"['airport', 'point_of_interest', 'establishment']","Signature Executive Terminal, 1052 North Access Road, San Francisco",37.6282929,-122.3861007
+6,"San Mateo, California",airport,ChIJr9t-pi14j4AR34ZywWikF84,San Francisco Airport,"['airport', 'point_of_interest', 'establishment']","492 North Mcdonnell Road, San Francisco",37.6169321,-122.3836167
+7,"San Mateo, California",airport,ChIJnS-7y5J3j4AR6Qg6UFa9NGE,SFO,"['airport', 'point_of_interest', 'establishment']","Domestic Terminals Arrivals Level, San Francisco",37.6213129,-122.3789554
+8,"San Mateo, California",airport,ChIJLx5rTgmij4ARlIJJMVoVnYo,Flying Veterans Club of San Francisco,"['airport', 'point_of_interest', 'establishment']","Hangar F1, KSQL, San Carlos",37.5140883,-122.2492147
+9,"San Mateo, California",airport,ChIJFSo2yMh3j4ARINHHIINdbLU,Airport plane watch area,"['airport', 'point_of_interest', 'establishment']","Bay Trail Access, Burlingame",37.60357680000001,-122.3736573
+10,"San Mateo, California",airport,ChIJFwZOypJ3j4ARBy-IFsJW3ck,KSFO,"['airport', 'point_of_interest', 'establishment']","Domestic Terminals Departures Level, San Francisco",37.6213129,-122.3789554
+11,"San Mateo, California",airport,ChIJs_qIZoF3j4ARUerATRnWiLc,SFOII,"['airport', 'point_of_interest', 'establishment']","37 18.8, 24 0.9, 122 37th Avenue, San Mateo",37.6160909,-122.3922954
+12,"San Mateo, California",airport,ChIJgcIuI4R3j4ARJjVIkWUBfjk,United Airlines,"['airport', 'point_of_interest', 'establishment']","642 West 94128, Cargo Way, San Francisco",37.6218773,-122.3941341
+0,"Belmont, California",airport,ChIJ8fmOvjOij4ARzpIrFfHo_w4,San Carlos Airport,"['airport', 'premise', 'point_of_interest', 'establishment']","620 Airport Way, San Carlos",37.5153754,-122.2503052
+1,"Belmont, California",airport,ChIJvUqR4wKij4ARwHvDpEr1dnA,San Mateo County Transit District,"['airport', 'local_government_office', 'point_of_interest', 'establishment']","1250 San Carlos Avenue, San Carlos",37.5064299,-122.2619171
+2,"Belmont, California",airport,ChIJUzU5gwiij4ARRWjKZOgy78Y,Bay Aerial Helicopter Service,"['airport', 'point_of_interest', 'establishment']","815 Skyway Road, San Carlos",37.50882500000001,-122.248947
+3,"Belmont, California",airport,ChIJLx5rTgmij4ARlIJJMVoVnYo,Flying Veterans Club of San Francisco,"['airport', 'point_of_interest', 'establishment']","Hangar F1, KSQL, San Carlos",37.5140883,-122.2492147
+4,"Belmont, California",airport,ChIJtw7fco2dj4ARs78lAh8Ua7A,BUTTERFLY LIMOUSINE SERVICE,"['airport', 'lodging', 'point_of_interest', 'establishment']","255 Wisteria Drive, Palo Alto",37.5865632,-122.346102
+0,"Newark, California",airport,ChIJHRM2Xtm_j4AR_Duz7ynwDSY,Town car and Limousine service,"['airport', 'point_of_interest', 'establishment']","2600 Decoto Road, Union City",37.582691,-122.0226992
+1,"Newark, California",airport,ChIJaS0t2be4j4ARApShTgzt7dk,Bayside R/C Club,"['airport', 'point_of_interest', 'establishment']","7698 Mowry Avenue, Newark",37.5074193,-122.0147708
+2,"Newark, California",airport,ChIJ6yhjt5DAj4ARUe2rz-sKq5E,First Interstate Bank Operations Center Heliport,"['airport', 'point_of_interest', 'establishment']",Fremont,37.54799159999999,-121.9802383
+3,"Newark, California",airport,ChIJFdK74I7Aj4ARiYuO_S06MiY,Washington Hospital Heliport,"['airport', 'point_of_interest', 'establishment']",Fremont,37.5563247,-121.9782933
+0,"Hayward, California",airport,ChIJYXw7hN-Tj4ARJ9ESaTy5MH4,Hayward Executive Airport,"['airport', 'point_of_interest', 'establishment']","20301 Skywest Drive, Hayward",37.6628524,-122.1216304
+1,"Hayward, California",airport,ChIJO9mpjQSRj4ARpwH_38ovPbo,App Jet Center-Hayward,"['airport', 'point_of_interest', 'establishment']","21889 Skywest Drive, Hayward",37.66006099999999,-122.1166281
+2,"Hayward, California",airport,ChIJ2U5h3CmSj4ARHV2jQezd-V8,ITTrans Limousine,"['airport', 'car_rental', 'night_club', 'travel_agency', 'point_of_interest', 'establishment']","2091 Strobridge Avenue, Castro Valley",37.6901898,-122.0830571
+3,"Hayward, California",airport,ChIJcbWe_6v5wokRP2Ow8otWqtQ,Meridian Hayward,"['airport', 'point_of_interest', 'establishment']","1 Tuskegee Drive, Hayward",37.655324,-122.1202476
+4,"Hayward, California",airport,ChIJ7UGhCqaWj4AR0xG40l0VnAc,Saint Rose Hospital Helistop,"['airport', 'point_of_interest', 'establishment']",Hayward,37.6329885,-122.0894077
+0,"Redwood City, California",airport,ChIJ8fmOvjOij4ARzpIrFfHo_w4,San Carlos Airport,"['airport', 'premise', 'point_of_interest', 'establishment']","620 Airport Way, San Carlos",37.5153754,-122.2503052
+1,"Redwood City, California",airport,ChIJvUqR4wKij4ARwHvDpEr1dnA,San Mateo County Transit District,"['airport', 'local_government_office', 'point_of_interest', 'establishment']","1250 San Carlos Avenue, San Carlos",37.5064299,-122.2619171
+2,"Redwood City, California",airport,ChIJUzU5gwiij4ARRWjKZOgy78Y,Bay Aerial Helicopter Service,"['airport', 'point_of_interest', 'establishment']","815 Skyway Road, San Carlos",37.50882500000001,-122.248947
+3,"Redwood City, California",airport,ChIJLx5rTgmij4ARlIJJMVoVnYo,Flying Veterans Club of San Francisco,"['airport', 'point_of_interest', 'establishment']","Hangar F1, KSQL, San Carlos",37.5140883,-122.2492147
+4,"Redwood City, California",airport,ChIJm2D5SC27j4AR4tIqjnpYn0Q,Stanford Hospital Heliport,"['airport', 'point_of_interest', 'establishment']","820 Quarry Road, Palo Alto",37.4351865,-122.1745936
+0,"Berkeley, California",airport,ChIJGW-o0194hYARnMHIOXKQ55g,Richmond Field Station,"['university', 'airport', 'point_of_interest', 'establishment']","1301 South 46th Street, Richmond",37.9170318,-122.3298475
+1,"Berkeley, California",airport,ChIJcdUEqN59hYAR-jpFkjY6V9E,Yellow Airport Taxi Oakland,"['airport', 'taxi_stand', 'point_of_interest', 'establishment']","5798 Vicente Street, Oakland",37.84433000000001,-122.25975
+2,"Berkeley, California",airport,ChIJG_OncnF-hYARoJ-UOBqfkZg,oakland international air port,"['airport', 'point_of_interest', 'establishment']","874 57th Street, Oakland",37.8419281,-122.2731888
+3,"Berkeley, California",airport,ChIJx_XXS21-hYARCyJ_XjIAySQ,Local & Airport Cab Co,"['airport', 'point_of_interest', 'establishment']","1049 45th Street, Emeryville",37.834857,-122.277928
+4,"Berkeley, California",airport,ChIJ6-8arUqHj4AR6F9VJJNlWjQ,Alameda County Parking Garage Heliport,"['airport', 'point_of_interest', 'establishment']","165 13th Street, Oakland",37.80077929999999,-122.2652638
+5,"Berkeley, California",airport,ChIJYeYwrUqHj4ARxhZaBaRQ-No,Alameda County Garage,"['airport', 'parking', 'point_of_interest', 'establishment']",Oakland,37.8007614,-122.2653444
+6,"Berkeley, California",airport,ChIJT0lecV57hYARZtiPQB89B3s,Sandhill Heliport,"['airport', 'point_of_interest', 'establishment']",Orinda,37.921313,-122.1955219
+7,"Berkeley, California",airport,ChIJgybT8CeHj4ARzlX9mioUJHI,"U.S. Coast Guard Heliport, Island Facility","['airport', 'point_of_interest', 'establishment']","Eagle Road, Oakland",37.7852176,-122.2531906
+8,"Berkeley, California",airport,ChIJM8gdtS-AhYARk8_k9tj9ws4,Building 3,"['premise', 'airport', 'point_of_interest', 'establishment']",San Francisco,37.8193829,-122.3658344
+0,"Menlo Park, California",airport,ChIJdVMUu7C7j4AR4vmcgdOf-kU,Palo Alto Airport,"['airport', 'point_of_interest', 'establishment']","1925 Embarcadero Road, Palo Alto",37.4550078,-122.1107903
+1,"Menlo Park, California",airport,ChIJ8fmOvjOij4ARzpIrFfHo_w4,San Carlos Airport,"['airport', 'premise', 'point_of_interest', 'establishment']","620 Airport Way, San Carlos",37.5153754,-122.2503052
+2,"Menlo Park, California",airport,ChIJvUqR4wKij4ARwHvDpEr1dnA,San Mateo County Transit District,"['airport', 'local_government_office', 'point_of_interest', 'establishment']","1250 San Carlos Avenue, San Carlos",37.5064299,-122.2619171
+3,"Menlo Park, California",airport,ChIJUzU5gwiij4ARRWjKZOgy78Y,Bay Aerial Helicopter Service,"['airport', 'point_of_interest', 'establishment']","815 Skyway Road, San Carlos",37.50882500000001,-122.248947
+4,"Menlo Park, California",airport,ChIJm2D5SC27j4AR4tIqjnpYn0Q,Stanford Hospital Heliport,"['airport', 'point_of_interest', 'establishment']","820 Quarry Road, Palo Alto",37.4351865,-122.1745936
+5,"Menlo Park, California",airport,ChIJLx5rTgmij4ARlIJJMVoVnYo,Flying Veterans Club of San Francisco,"['airport', 'point_of_interest', 'establishment']","Hangar F1, KSQL, San Carlos",37.5140883,-122.2492147
+6,"Menlo Park, California",airport,ChIJUQopC7q7j4AR1Oz6c3Jgrk0,Hangar,"['airport', 'point_of_interest', 'establishment']","1903 Embarcadero Road, Palo Alto",37.4538973,-122.1142698
+0,"Palo Alto, California",airport,ChIJdVMUu7C7j4AR4vmcgdOf-kU,Palo Alto Airport,"['airport', 'point_of_interest', 'establishment']","1925 Embarcadero Road, Palo Alto",37.4550078,-122.1107903
+1,"Palo Alto, California",airport,ChIJm2D5SC27j4AR4tIqjnpYn0Q,Stanford Hospital Heliport,"['airport', 'point_of_interest', 'establishment']","820 Quarry Road, Palo Alto",37.4351865,-122.1745936
+2,"Palo Alto, California",airport,ChIJUQopC7q7j4AR1Oz6c3Jgrk0,Hangar,"['airport', 'point_of_interest', 'establishment']","1903 Embarcadero Road, Palo Alto",37.4538973,-122.1142698
+3,"Palo Alto, California",airport,ChIJZ1_1Tue5j4ARLcB32uh_-4k,AvPorts Moffett Federal Airfield,"['airport', 'point_of_interest', 'establishment']","NASA Ames Research Center Boundary, Mountain View",37.4271813,-122.0619054
+4,"Palo Alto, California",airport,ChIJ6-XcF2-3j4ARs_XUEsdu6qE,Hangar 1,"['airport', 'point_of_interest', 'establishment']","Moffett Field, MOFFETT FIELD",37.4131155,-122.0538771
+5,"Palo Alto, California",airport,ChIJN95E8Yq3j4ARn2e0ureRR90,Moffett Federal Airfield,"['airport', 'point_of_interest', 'establishment']",Mountain View,37.4094963,-122.0510589
+6,"Palo Alto, California",airport,ChIJhSyjIm-3j4ARTfP-5Z35Bmw,Hangar 1,"['airport', 'premise', 'point_of_interest', 'establishment']",Moffett Field,37.41281410000001,-122.0540919
+0,"Mountain View, California",airport,ChIJdVMUu7C7j4AR4vmcgdOf-kU,Palo Alto Airport,"['airport', 'point_of_interest', 'establishment']","1925 Embarcadero Road, Palo Alto",37.4550078,-122.1107903
+1,"Mountain View, California",airport,ChIJLzbfzve0j4ARI6m6NFGpx8w,21579 Edward Way,"['airport', 'point_of_interest', 'establishment']","21579 Edward Way, Cupertino",37.3088778,-122.0519665
+2,"Mountain View, California",airport,ChIJm2D5SC27j4AR4tIqjnpYn0Q,Stanford Hospital Heliport,"['airport', 'point_of_interest', 'establishment']","820 Quarry Road, Palo Alto",37.4351865,-122.1745936
+3,"Mountain View, California",airport,ChIJN95E8Yq3j4ARn2e0ureRR90,Moffett Federal Airfield,"['airport', 'point_of_interest', 'establishment']",Mountain View,37.4094963,-122.0510589
+4,"Mountain View, California",airport,ChIJ6-XcF2-3j4ARs_XUEsdu6qE,Hangar 1,"['airport', 'point_of_interest', 'establishment']","Moffett Field, MOFFETT FIELD",37.4131155,-122.0538771
+5,"Mountain View, California",airport,ChIJZ1_1Tue5j4ARLcB32uh_-4k,AvPorts Moffett Federal Airfield,"['airport', 'point_of_interest', 'establishment']","NASA Ames Research Center Boundary, Mountain View",37.4271813,-122.0619054
+6,"Mountain View, California",airport,ChIJq6qqqm62j4ARvmXCHlhEDp0,Airport Connection & Arprt Services,"['airport', 'point_of_interest', 'establishment']",Sunnyvale,37.371859,-122.0212337
+7,"Mountain View, California",airport,ChIJUQopC7q7j4AR1Oz6c3Jgrk0,Hangar,"['airport', 'point_of_interest', 'establishment']","1903 Embarcadero Road, Palo Alto",37.4538973,-122.1142698
+8,"Mountain View, California",airport,ChIJ1cj0jOzJj4ARhjJJeU_3Sug,Mc Candless Towers Heliport,"['airport', 'point_of_interest', 'establishment']","2900 Lakeside Drive Suite 200, Santa Clara",37.3846682,-121.9802252
+9,"Mountain View, California",airport,ChIJhSyjIm-3j4ARTfP-5Z35Bmw,Hangar 1,"['airport', 'premise', 'point_of_interest', 'establishment']",Moffett Field,37.41281410000001,-122.0540919
+0,"Los Altos, California",airport,ChIJdVMUu7C7j4AR4vmcgdOf-kU,Palo Alto Airport,"['airport', 'point_of_interest', 'establishment']","1925 Embarcadero Road, Palo Alto",37.4550078,-122.1107903
+1,"Los Altos, California",airport,ChIJm2D5SC27j4AR4tIqjnpYn0Q,Stanford Hospital Heliport,"['airport', 'point_of_interest', 'establishment']","820 Quarry Road, Palo Alto",37.4351865,-122.1745936
+2,"Los Altos, California",airport,ChIJ6-XcF2-3j4ARs_XUEsdu6qE,Hangar 1,"['airport', 'point_of_interest', 'establishment']","Moffett Field, MOFFETT FIELD",37.4131155,-122.0538771
+3,"Los Altos, California",airport,ChIJN95E8Yq3j4ARn2e0ureRR90,Moffett Federal Airfield,"['airport', 'point_of_interest', 'establishment']",Mountain View,37.4094963,-122.0510589
+4,"Los Altos, California",airport,ChIJZ1_1Tue5j4ARLcB32uh_-4k,AvPorts Moffett Federal Airfield,"['airport', 'point_of_interest', 'establishment']","NASA Ames Research Center Boundary, Mountain View",37.4271813,-122.0619054
+5,"Los Altos, California",airport,ChIJUQopC7q7j4AR1Oz6c3Jgrk0,Hangar,"['airport', 'point_of_interest', 'establishment']","1903 Embarcadero Road, Palo Alto",37.4538973,-122.1142698
+6,"Los Altos, California",airport,ChIJq6qqqm62j4ARvmXCHlhEDp0,Airport Connection & Arprt Services,"['airport', 'point_of_interest', 'establishment']",Sunnyvale,37.371859,-122.0212337
+7,"Los Altos, California",airport,ChIJhSyjIm-3j4ARTfP-5Z35Bmw,Hangar 1,"['airport', 'premise', 'point_of_interest', 'establishment']",Moffett Field,37.41281410000001,-122.0540919
+0,"Sunnyvale, California",airport,ChIJm8Wz-sPLj4ARPn72bT9E-rw,Norman Y. Mineta San Jose International Airport,"['airport', 'point_of_interest', 'establishment']","1701 Airport Boulevard, San Jose",37.3639472,-121.9289375
+1,"Sunnyvale, California",airport,ChIJLzbfzve0j4ARI6m6NFGpx8w,21579 Edward Way,"['airport', 'point_of_interest', 'establishment']","21579 Edward Way, Cupertino",37.3088778,-122.0519665
+2,"Sunnyvale, California",airport,ChIJhVLRVaPLj4ARrPggNZYPAs8,Atlantic Aviation SJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.35710529999999,-121.9299361
+3,"Sunnyvale, California",airport,ChIJxV9DjrfLj4ARLH67JGoo4bw,Signature Flight Support SJC - San Jose International Airport,"['airport', 'point_of_interest', 'establishment']","323 Martin Avenue, Santa Clara",37.361209,-121.9351855
+4,"Sunnyvale, California",airport,ChIJHRivIsHLj4AR0loQdfEFLfY,Terminal A,"['airport', 'premise', 'point_of_interest', 'establishment']",San Jose,37.3695811,-121.9298004
+5,"Sunnyvale, California",airport,ChIJTZXf-KLLj4ARmZ1RyHbTwyw,JetSuiteX,"['airport', 'point_of_interest', 'establishment']","1143, 1162 Aviation Avenue, San Jose",37.3547196,-121.9270459
+6,"Sunnyvale, California",airport,ChIJq6qqqm62j4ARvmXCHlhEDp0,Airport Connection & Arprt Services,"['airport', 'point_of_interest', 'establishment']",Sunnyvale,37.371859,-122.0212337
+7,"Sunnyvale, California",airport,ChIJN95E8Yq3j4ARn2e0ureRR90,Moffett Federal Airfield,"['airport', 'point_of_interest', 'establishment']",Mountain View,37.4094963,-122.0510589
+8,"Sunnyvale, California",airport,ChIJ6-XcF2-3j4ARs_XUEsdu6qE,Hangar 1,"['airport', 'point_of_interest', 'establishment']","Moffett Field, MOFFETT FIELD",37.4131155,-122.0538771
+9,"Sunnyvale, California",airport,ChIJ1cj0jOzJj4ARhjJJeU_3Sug,Mc Candless Towers Heliport,"['airport', 'point_of_interest', 'establishment']","2900 Lakeside Drive Suite 200, Santa Clara",37.3846682,-121.9802252
+10,"Sunnyvale, California",airport,ChIJZ1_1Tue5j4ARLcB32uh_-4k,AvPorts Moffett Federal Airfield,"['airport', 'point_of_interest', 'establishment']","NASA Ames Research Center Boundary, Mountain View",37.4271813,-122.0619054
+11,"Sunnyvale, California",airport,ChIJ6yfZo7zLj4AR4p679EndxU0,Atlantic Aviation KSJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.3580183,-121.9310715
+12,"Sunnyvale, California",airport,ChIJ9-pr9MDLj4ARb8ldgRWbx3E,SJC Airport Badging Office,"['airport', 'point_of_interest', 'establishment']","2055 Terminal Drive, San Jose",37.3695811,-121.9298004
+13,"Sunnyvale, California",airport,ChIJhSyjIm-3j4ARTfP-5Z35Bmw,Hangar 1,"['airport', 'premise', 'point_of_interest', 'establishment']",Moffett Field,37.41281410000001,-122.0540919
+0,"Cupertino, California",airport,ChIJLzbfzve0j4ARI6m6NFGpx8w,21579 Edward Way,"['airport', 'point_of_interest', 'establishment']","21579 Edward Way, Cupertino",37.3088778,-122.0519665
+1,"Cupertino, California",airport,ChIJhVLRVaPLj4ARrPggNZYPAs8,Atlantic Aviation SJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.35710529999999,-121.9299361
+2,"Cupertino, California",airport,ChIJxV9DjrfLj4ARLH67JGoo4bw,Signature Flight Support SJC - San Jose International Airport,"['airport', 'point_of_interest', 'establishment']","323 Martin Avenue, Santa Clara",37.361209,-121.9351855
+3,"Cupertino, California",airport,ChIJTZXf-KLLj4ARmZ1RyHbTwyw,JetSuiteX,"['airport', 'point_of_interest', 'establishment']","1143, 1162 Aviation Avenue, San Jose",37.3547196,-121.9270459
+4,"Cupertino, California",airport,ChIJq6qqqm62j4ARvmXCHlhEDp0,Airport Connection & Arprt Services,"['airport', 'point_of_interest', 'establishment']",Sunnyvale,37.371859,-122.0212337
+5,"Cupertino, California",airport,ChIJ1cj0jOzJj4ARhjJJeU_3Sug,Mc Candless Towers Heliport,"['airport', 'point_of_interest', 'establishment']","2900 Lakeside Drive Suite 200, Santa Clara",37.3846682,-121.9802252
+6,"Cupertino, California",airport,ChIJoyn1SzDLj4AR6ztZvIEqpqg,County Medical Center Heliport,"['airport', 'point_of_interest', 'establishment']",San Jose,37.3141926,-121.9342006
+7,"Cupertino, California",airport,ChIJ6yfZo7zLj4AR4p679EndxU0,Atlantic Aviation KSJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.3580183,-121.9310715
+8,"Cupertino, California",airport,ChIJN95E8Yq3j4ARn2e0ureRR90,Moffett Federal Airfield,"['airport', 'point_of_interest', 'establishment']",Mountain View,37.4094963,-122.0510589
+0,"Santa Clara, California",airport,ChIJm8Wz-sPLj4ARPn72bT9E-rw,Norman Y. Mineta San Jose International Airport,"['airport', 'point_of_interest', 'establishment']","1701 Airport Boulevard, San Jose",37.3639472,-121.9289375
+1,"Santa Clara, California",airport,ChIJhVLRVaPLj4ARrPggNZYPAs8,Atlantic Aviation SJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.35710529999999,-121.9299361
+2,"Santa Clara, California",airport,ChIJKR4YnhTNj4ARCih3St0yNUI,Limo Stop,"['airport', 'point_of_interest', 'establishment']","1580 Oakland Road C-101, San Jose",37.3803731,-121.8942596
+3,"Santa Clara, California",airport,ChIJk2yvY1bJj4ARictL2uegGAA,A2 Global Shipping,"['airport', 'moving_company', 'finance', 'storage', 'point_of_interest', 'establishment']","2135 O'Toole Avenue #121a, San Jose",37.3932149,-121.9086418
+4,"Santa Clara, California",airport,ChIJxV9DjrfLj4ARLH67JGoo4bw,Signature Flight Support SJC - San Jose International Airport,"['airport', 'point_of_interest', 'establishment']","323 Martin Avenue, Santa Clara",37.361209,-121.9351855
+5,"Santa Clara, California",airport,ChIJTZXf-KLLj4ARmZ1RyHbTwyw,JetSuiteX,"['airport', 'point_of_interest', 'establishment']","1143, 1162 Aviation Avenue, San Jose",37.3547196,-121.9270459
+6,"Santa Clara, California",airport,ChIJHRivIsHLj4AR0loQdfEFLfY,Terminal A,"['airport', 'premise', 'point_of_interest', 'establishment']",San Jose,37.3695811,-121.9298004
+7,"Santa Clara, California",airport,ChIJ49kYuB22j4ARZJeRdq4fTV0,First Impression Transportation Inc.,"['airport', 'taxi_stand', 'travel_agency', 'point_of_interest', 'establishment']","551 Stockton Avenue, San Jose",37.33835479999999,-121.9112618
+8,"Santa Clara, California",airport,ChIJLzbfzve0j4ARI6m6NFGpx8w,21579 Edward Way,"['airport', 'point_of_interest', 'establishment']","21579 Edward Way, Cupertino",37.3088778,-122.0519665
+9,"Santa Clara, California",airport,ChIJiYZ4TpfLj4ARuAHKHchGBdo,All Nippon Airways,"['airport', 'point_of_interest', 'establishment']","1521 Airport Boulevard, San Jose",37.3599413,-121.9192363
+10,"Santa Clara, California",airport,ChIJ6yfZo7zLj4AR4p679EndxU0,Atlantic Aviation KSJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.3580183,-121.9310715
+11,"Santa Clara, California",airport,ChIJ9-pr9MDLj4ARb8ldgRWbx3E,SJC Airport Badging Office,"['airport', 'point_of_interest', 'establishment']","2055 Terminal Drive, San Jose",37.3695811,-121.9298004
+12,"Santa Clara, California",airport,ChIJSeODxpXLj4AR_MqTwGRXA20,SJC Terminal B Stop 8,"['airport', 'point_of_interest', 'establishment']","1536-1548 Airport Boulevard, San Jose",37.364017,-121.9226231
+13,"Santa Clara, California",airport,ChIJ1cj0jOzJj4ARhjJJeU_3Sug,Mc Candless Towers Heliport,"['airport', 'point_of_interest', 'establishment']","2900 Lakeside Drive Suite 200, Santa Clara",37.3846682,-121.9802252
+14,"Santa Clara, California",airport,ChIJoyn1SzDLj4AR6ztZvIEqpqg,County Medical Center Heliport,"['airport', 'point_of_interest', 'establishment']",San Jose,37.3141926,-121.9342006
+15,"Santa Clara, California",airport,ChIJq6qqqm62j4ARvmXCHlhEDp0,Airport Connection & Arprt Services,"['airport', 'point_of_interest', 'establishment']",Sunnyvale,37.371859,-122.0212337
+16,"Santa Clara, California",airport,ChIJiQmQVgbMj4ARO7BQ9BN-9ao,sws express limousine,"['airport', 'point_of_interest', 'establishment']","1784 Oakland Road, San Jose",37.3869665,-121.8985495
+17,"Santa Clara, California",airport,ChIJq_EFy2nMj4AR1BAElcL_0OA,Flea Port Heliport,"['airport', 'point_of_interest', 'establishment']",San Jose,37.373535,-121.8802979
+0,"San Jose, California",airport,ChIJm8Wz-sPLj4ARPn72bT9E-rw,Norman Y. Mineta San Jose International Airport,"['airport', 'point_of_interest', 'establishment']","1701 Airport Boulevard, San Jose",37.3639472,-121.9289375
+1,"San Jose, California",airport,ChIJa3ZwhA3Nj4ARXXIZwl3tfsU,Reid-Hillview Airport,"['airport', 'point_of_interest', 'establishment']","2500 Cunningham Avenue, San Jose",37.3360175,-121.8198199
+2,"San Jose, California",airport,ChIJhVLRVaPLj4ARrPggNZYPAs8,Atlantic Aviation SJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.35710529999999,-121.9299361
+3,"San Jose, California",airport,ChIJtbH1oa0yjoARI7BAAv8UAXo,AeroDynamic Aviation,"['airport', 'university', 'point_of_interest', 'establishment']","2650 Robert Fowler Way, San Jose",37.3385543,-121.8195846
+4,"San Jose, California",airport,ChIJKR4YnhTNj4ARCih3St0yNUI,Limo Stop,"['airport', 'point_of_interest', 'establishment']","1580 Oakland Road C-101, San Jose",37.3803731,-121.8942596
+5,"San Jose, California",airport,ChIJk2yvY1bJj4ARictL2uegGAA,A2 Global Shipping,"['airport', 'moving_company', 'finance', 'storage', 'point_of_interest', 'establishment']","2135 O'Toole Avenue #121a, San Jose",37.3932149,-121.9086418
+6,"San Jose, California",airport,ChIJ49kYuB22j4ARZJeRdq4fTV0,First Impression Transportation Inc.,"['airport', 'taxi_stand', 'travel_agency', 'point_of_interest', 'establishment']","551 Stockton Avenue, San Jose",37.33835479999999,-121.9112618
+7,"San Jose, California",airport,ChIJTZXf-KLLj4ARmZ1RyHbTwyw,JetSuiteX,"['airport', 'point_of_interest', 'establishment']","1143, 1162 Aviation Avenue, San Jose",37.3547196,-121.9270459
+8,"San Jose, California",airport,ChIJHRivIsHLj4AR0loQdfEFLfY,Terminal A,"['airport', 'premise', 'point_of_interest', 'establishment']",San Jose,37.3695811,-121.9298004
+9,"San Jose, California",airport,ChIJxV9DjrfLj4ARLH67JGoo4bw,Signature Flight Support SJC - San Jose International Airport,"['airport', 'point_of_interest', 'establishment']","323 Martin Avenue, Santa Clara",37.361209,-121.9351855
+10,"San Jose, California",airport,ChIJkYby_oUyjoARBRpwD3xEPjQ,Premier Airport Shuttle,"['airport', 'point_of_interest', 'establishment']","1384 Sylvia Drive, San Jose",37.306893,-121.821841
+11,"San Jose, California",airport,ChIJiYZ4TpfLj4ARuAHKHchGBdo,All Nippon Airways,"['airport', 'point_of_interest', 'establishment']","1521 Airport Boulevard, San Jose",37.3599413,-121.9192363
+12,"San Jose, California",airport,ChIJq_EFy2nMj4AR1BAElcL_0OA,Flea Port Heliport,"['airport', 'point_of_interest', 'establishment']",San Jose,37.373535,-121.8802979
+13,"San Jose, California",airport,ChIJSeODxpXLj4AR_MqTwGRXA20,SJC Terminal B Stop 8,"['airport', 'point_of_interest', 'establishment']","1536-1548 Airport Boulevard, San Jose",37.364017,-121.9226231
+14,"San Jose, California",airport,ChIJ6yfZo7zLj4AR4p679EndxU0,Atlantic Aviation KSJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.3580183,-121.9310715
+15,"San Jose, California",airport,ChIJoyn1SzDLj4AR6ztZvIEqpqg,County Medical Center Heliport,"['airport', 'point_of_interest', 'establishment']",San Jose,37.3141926,-121.9342006
+16,"San Jose, California",airport,ChIJ9-pr9MDLj4ARb8ldgRWbx3E,SJC Airport Badging Office,"['airport', 'point_of_interest', 'establishment']","2055 Terminal Drive, San Jose",37.3695811,-121.9298004
+17,"San Jose, California",airport,ChIJiQmQVgbMj4ARO7BQ9BN-9ao,sws express limousine,"['airport', 'point_of_interest', 'establishment']","1784 Oakland Road, San Jose",37.3869665,-121.8985495
+18,"San Jose, California",airport,ChIJiTL9TK4yjoARxZbnJO1AiC4,Atlanta Avation,"['airport', 'point_of_interest', 'establishment']","Quimby Road, San Jose",37.3338049,-121.8201485
+19,"San Jose, California",airport,ChIJ1cj0jOzJj4ARhjJJeU_3Sug,Mc Candless Towers Heliport,"['airport', 'point_of_interest', 'establishment']","2900 Lakeside Drive Suite 200, Santa Clara",37.3846682,-121.9802252
+0,"Milpitas, California",airport,ChIJm8Wz-sPLj4ARPn72bT9E-rw,Norman Y. Mineta San Jose International Airport,"['airport', 'point_of_interest', 'establishment']","1701 Airport Boulevard, San Jose",37.3639472,-121.9289375
+1,"Milpitas, California",airport,ChIJKR4YnhTNj4ARCih3St0yNUI,Limo Stop,"['airport', 'point_of_interest', 'establishment']","1580 Oakland Road C-101, San Jose",37.3803731,-121.8942596
+2,"Milpitas, California",airport,ChIJhVLRVaPLj4ARrPggNZYPAs8,Atlantic Aviation SJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.35710529999999,-121.9299361
+3,"Milpitas, California",airport,ChIJk2yvY1bJj4ARictL2uegGAA,A2 Global Shipping,"['airport', 'moving_company', 'finance', 'storage', 'point_of_interest', 'establishment']","2135 O'Toole Avenue #121a, San Jose",37.3932149,-121.9086418
+4,"Milpitas, California",airport,ChIJHRivIsHLj4AR0loQdfEFLfY,Terminal A,"['airport', 'premise', 'point_of_interest', 'establishment']",San Jose,37.3695811,-121.9298004
+5,"Milpitas, California",airport,ChIJxV9DjrfLj4ARLH67JGoo4bw,Signature Flight Support SJC - San Jose International Airport,"['airport', 'point_of_interest', 'establishment']","323 Martin Avenue, Santa Clara",37.361209,-121.9351855
+6,"Milpitas, California",airport,ChIJTZXf-KLLj4ARmZ1RyHbTwyw,JetSuiteX,"['airport', 'point_of_interest', 'establishment']","1143, 1162 Aviation Avenue, San Jose",37.3547196,-121.9270459
+7,"Milpitas, California",airport,ChIJiQmQVgbMj4ARO7BQ9BN-9ao,sws express limousine,"['airport', 'point_of_interest', 'establishment']","1784 Oakland Road, San Jose",37.3869665,-121.8985495
+8,"Milpitas, California",airport,ChIJq_EFy2nMj4AR1BAElcL_0OA,Flea Port Heliport,"['airport', 'point_of_interest', 'establishment']",San Jose,37.373535,-121.8802979
+9,"Milpitas, California",airport,ChIJ9-pr9MDLj4ARb8ldgRWbx3E,SJC Airport Badging Office,"['airport', 'point_of_interest', 'establishment']","2055 Terminal Drive, San Jose",37.3695811,-121.9298004
+10,"Milpitas, California",airport,ChIJSeODxpXLj4AR_MqTwGRXA20,SJC Terminal B Stop 8,"['airport', 'point_of_interest', 'establishment']","1536-1548 Airport Boulevard, San Jose",37.364017,-121.9226231
+11,"Milpitas, California",airport,ChIJiYZ4TpfLj4ARuAHKHchGBdo,All Nippon Airways,"['airport', 'point_of_interest', 'establishment']","1521 Airport Boulevard, San Jose",37.3599413,-121.9192363
+12,"Milpitas, California",airport,ChIJ6yfZo7zLj4AR4p679EndxU0,Atlantic Aviation KSJC,"['airport', 'point_of_interest', 'establishment']","1250 Aviation Avenue, San Jose",37.3580183,-121.9310715
+13,"Milpitas, California",airport,ChIJ1cj0jOzJj4ARhjJJeU_3Sug,Mc Candless Towers Heliport,"['airport', 'point_of_interest', 'establishment']","2900 Lakeside Drive Suite 200, Santa Clara",37.3846682,-121.9802252
+0,"Fremont, California",airport,ChIJHRM2Xtm_j4AR_Duz7ynwDSY,Town car and Limousine service,"['airport', 'point_of_interest', 'establishment']","2600 Decoto Road, Union City",37.582691,-122.0226992
+1,"Fremont, California",airport,ChIJ6yhjt5DAj4ARUe2rz-sKq5E,First Interstate Bank Operations Center Heliport,"['airport', 'point_of_interest', 'establishment']",Fremont,37.54799159999999,-121.9802383
+2,"Fremont, California",airport,ChIJFdK74I7Aj4ARiYuO_S06MiY,Washington Hospital Heliport,"['airport', 'point_of_interest', 'establishment']",Fremont,37.5563247,-121.9782933
+3,"Fremont, California",airport,ChIJaS0t2be4j4ARApShTgzt7dk,Bayside R/C Club,"['airport', 'point_of_interest', 'establishment']","7698 Mowry Avenue, Newark",37.5074193,-122.0147708
+0,"Livermore, California",airport,ChIJ1TnC0YToj4AR-lPUiJN2GcQ,Livermore Municipal Airport,"['airport', 'point_of_interest', 'establishment']","680 Terminal Circle, Livermore",37.6960965,-121.8196537
+1,"Livermore, California",airport,ChIJKbH9TELej4ARoFbt2FixzTc,Meadowlark Field-63CN,"['airport', 'point_of_interest', 'establishment']","4300 Greenville Road, Livermore",37.661319,-121.693562
+2,"Livermore, California",airport,ChIJ32od3b_nj4AR750Je2vVY68,S Jets,"['airport', 'travel_agency', 'point_of_interest', 'establishment']","849 East Stanley Boulevard, Livermore",37.6772108,-121.7860886
+3,"Livermore, California",airport,ChIJ-wbbdVHcj4ARvYKUIZzkfR4,San Jose Airport,"['airport', 'point_of_interest', 'establishment']","5050 Arroyo Road, Livermore",37.62323309999999,-121.7567099
+4,"Livermore, California",airport,ChIJszknCoXoj4ARVl87KLPc_zw,Runway 7L/25R,"['airport', 'premise', 'point_of_interest', 'establishment']",Livermore,37.69388189999999,-121.8196955
+5,"Livermore, California",airport,ChIJQeeWwIXoj4ARIMrtzvB8HLA,Runway 7R/25L,"['airport', 'premise', 'point_of_interest', 'establishment']",Livermore,37.6924681,-121.8205408
+0,"Dublin, California",airport,ChIJFX3WpZfpj4ARegEp0oN3nho,Bay area Town Car & Limousine service,"['airport', 'point_of_interest', 'establishment']","4854 Bernal Avenue g, Pleasanton",37.656947,-121.88151
+1,"Dublin, California",airport,ChIJ2d-0Dkfpj4ARhrLddbXwliE,ValleyCare Medical Center Heliport,"['airport', 'point_of_interest', 'establishment']","5555 West Las Positas Boulevard, Pleasanton",37.6943931,-121.8808537
+2,"Dublin, California",airport,ChIJ_bRsubjzj4ARN5dRC-N8E-E,san Francisco airport,"['airport', 'point_of_interest', 'establishment']","3300 Promontory Circle, San Ramon",37.77762269999999,-121.9882323
+3,"Dublin, California",airport,ChIJszknCoXoj4ARVl87KLPc_zw,Runway 7L/25R,"['airport', 'premise', 'point_of_interest', 'establishment']",Livermore,37.69388189999999,-121.8196955
+4,"Dublin, California",airport,ChIJQeeWwIXoj4ARIMrtzvB8HLA,Runway 7R/25L,"['airport', 'premise', 'point_of_interest', 'establishment']",Livermore,37.6924681,-121.8205408
